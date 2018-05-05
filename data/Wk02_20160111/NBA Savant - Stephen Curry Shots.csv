@@ -1,0 +1,667 @@
+name,team_name,game_date,season,espn_player_id,team_id,espn_game_id,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_type,shot_distance,opponent,x,y,dribbles,touch_time,defender_name,defender_distance,shot_clock
+Stephen Curry,Golden State Warriors,08/12/2015,2015,3975,1610612744,400828201,1,10,43,1,Alley Oop Layup shot,2PT Field Goal,2.2,Indiana Pacers,1,-5,0,0.4,"Hill, George",1.5,11.7
+Stephen Curry,Golden State Warriors,06/12/2015,2015,3975,1610612744,400828187,1,2,44,1,Cutting Finger Roll Layup Shot,2PT Field Goal,3.2,Brooklyn Nets,25,7,0,0.7,"Larkin, Shane",5.7,19.1
+Stephen Curry,Golden State Warriors,27/10/2015,2015,3975,1610612744,400827890,3,7,35,1,Cutting Finger Roll Layup Shot,2PT Field Goal,1.1,New Orleans Pelicans,-7,13,0,0,"Smith, Ish",4.3,17
+Stephen Curry,Golden State Warriors,27/10/2015,2015,3975,1610612744,400827890,1,10,56,1,Cutting Finger Roll Layup Shot,2PT Field Goal,1.7,New Orleans Pelicans,12,31,0,0.5,"Perkins, Kendrick",1.1,4.9
+Stephen Curry,Golden State Warriors,12/12/2015,2015,3975,1610612744,400828238,4,4,11,1,Cutting Layup Shot,2PT Field Goal,3.6,Milwaukee Bucks,-2,2,9,5.3,"Monroe, Greg",6.3,17.8
+Stephen Curry,Golden State Warriors,30/10/2015,2015,3975,1610612744,400827917,4,5,12,1,Cutting Layup Shot,2PT Field Goal,8.3,Houston Rockets,-25,13,0,0.4,"Harden, James",6.5,18.2
+Stephen Curry,Golden State Warriors,27/11/2015,2015,3975,1610612744,400828123,3,6,20,1,Cutting Layup Shot,2PT Field Goal,5.4,Phoenix Suns,2,21,0,0.5,"Leuer, Jon",2,16.9
+Stephen Curry,Golden State Warriors,08/12/2015,2015,3975,1610612744,400828201,1,8,49,1,Cutting Layup Shot,2PT Field Goal,3.5,Indiana Pacers,9,8,0,1,"Hill, George",1.2,17.6
+Stephen Curry,Golden State Warriors,25/12/2015,2015,3975,1610612744,400828325,1,3,14,1,Cutting Layup Shot,2PT Field Goal,3,Cleveland Cavaliers,4,7,0,0.7,"Dellavedova, Matthew",3.1,24
+Stephen Curry,Golden State Warriors,16/12/2015,2015,3975,1610612744,400828268,3,6,3,1,Cutting Layup Shot,2PT Field Goal,2.8,Phoenix Suns,0,26,0,0.7,"Teletovic, Mirza",7.8,20.1
+Stephen Curry,Golden State Warriors,09/01/2016,2015,3975,1610612744,400828443,2,3,23,1,Cutting Layup Shot,2PT Field Goal,0.7,Sacramento Kings,24,21,0,0.5,"Rondo, Rajon",3.1,15.7
+Stephen Curry,Golden State Warriors,08/01/2016,2015,3975,1610612744,400828435,1,5,5,1,Cutting Layup Shot,2PT Field Goal,3.9,Portland Trail Blazers,19,2,0,0.4,"Vonleh, Noah",2.2,19.6
+Stephen Curry,Golden State Warriors,31/10/2015,2015,3975,1610612744,400827922,1,0,53,0,Driving Bank shot,2PT Field Goal,12,New Orleans Pelicans,-80,89,1,1.4,"Smith, Ish",2.1,15
+Stephen Curry,Golden State Warriors,11/11/2015,2015,3975,1610612744,400828007,3,2,26,1,Driving Bank shot,3PT Field Goal,28.1,Memphis Grizzlies,-89,272,5,5.6,"Smith, Russ",4,19.6
+Stephen Curry,Golden State Warriors,19/11/2015,2015,3975,1610612744,400828064,3,2,47,1,Driving Bank shot,2PT Field Goal,0.8,Los Angeles Clippers,28,13,1,4.6,"Smith, Josh",1.2,24
+Stephen Curry,Golden State Warriors,06/12/2015,2015,3975,1610612744,400828187,3,2,10,1,Driving Bank shot,2PT Field Goal,8.8,Brooklyn Nets,66,56,3,2.9,"Jack, Jarrett",3.3,20.5
+Stephen Curry,Golden State Warriors,14/11/2015,2015,3975,1610612744,400828031,5,2,5,1,Driving Dunk Shot,2PT Field Goal,3,Brooklyn Nets,0,1,2,1.7,"Jack, Jarrett",5.4,5.7
+Stephen Curry,Golden State Warriors,27/10/2015,2015,3975,1610612744,400827890,1,2,45,1,Driving Finger Roll Layup Shot,2PT Field Goal,3.7,New Orleans Pelicans,-19,21,2,3.9,"Ajinca, Alexis",3.7,14.5
+Stephen Curry,Golden State Warriors,27/10/2015,2015,3975,1610612744,400827890,3,10,7,1,Driving Finger Roll Layup Shot,2PT Field Goal,2.6,New Orleans Pelicans,10,11,0,2.5,"Perkins, Kendrick",3.4,14.3
+Stephen Curry,Golden State Warriors,08/12/2015,2015,3975,1610612744,400828201,1,2,18,1,Driving Finger Roll Layup Shot,2PT Field Goal,3.3,Indiana Pacers,14,2,2,2.8,"Hill, Jordan",1.7,15.8
+Stephen Curry,Golden State Warriors,17/11/2015,2015,3975,1610612744,400828051,2,3,57,1,Driving Finger Roll Layup Shot,2PT Field Goal,4.5,Toronto Raptors,10,8,8,7.3,"Valanciunas, Jonas",4.5,17.5
+Stephen Curry,Golden State Warriors,25/12/2015,2015,3975,1610612744,400828325,4,1,19,1,Driving Finger Roll Layup Shot,2PT Field Goal,5.1,Cleveland Cavaliers,4,11,12,11.2,"James, LeBron",1.6,10.7
+Stephen Curry,Golden State Warriors,22/11/2015,2015,3975,1610612744,400828087,1,10,27,1,Driving Finger Roll Layup Shot,2PT Field Goal,4.4,Denver Nuggets,0,8,2,2.1,"Jokic, Nikola",2.3,11
+Stephen Curry,Golden State Warriors,11/12/2015,2015,3975,1610612744,400828223,4,8,28,1,Driving Finger Roll Layup Shot,2PT Field Goal,5.3,Boston Celtics,9,2,0,2,"Olynyk, Kelly",2.1,4.4
+Stephen Curry,Golden State Warriors,25/12/2015,2015,3975,1610612744,400828325,4,0,57,1,Driving Finger Roll Layup Shot,2PT Field Goal,4.6,Cleveland Cavaliers,1,21,10,8.5,"Dellavedova, Matthew",0.4,14.3
+Stephen Curry,Golden State Warriors,11/12/2015,2015,3975,1610612744,400828223,5,0,53,1,Driving Finger Roll Layup Shot,2PT Field Goal,3.3,Boston Celtics,10,2,2,2.4,"Olynyk, Kelly",1.8,14.2
+Stephen Curry,Golden State Warriors,06/12/2015,2015,3975,1610612744,400828187,4,4,46,0,Driving Finger Roll Layup Shot,2PT Field Goal,4.8,Brooklyn Nets,-24,-10,9,11.1,"Lopez, Brook",6,11.2
+Stephen Curry,Golden State Warriors,08/12/2015,2015,3975,1610612744,400828201,4,0,35,1,Driving Finger Roll Layup Shot,2PT Field Goal,6,Indiana Pacers,-34,7,5,3.8,"Ellis, Monta",1.2,13.9
+Stephen Curry,Golden State Warriors,22/11/2015,2015,3975,1610612744,400828087,2,1,43,0,Driving Finger Roll Layup Shot,2PT Field Goal,3.8,Denver Nuggets,6,0,7,8.1,"Gallinari, Danilo",1.6,15.7
+Stephen Curry,Golden State Warriors,24/11/2015,2015,3975,1610612744,400828101,3,0,32,1,Driving Finger Roll Layup Shot,2PT Field Goal,5,Los Angeles Lakers,10,7,3,2.4,"Young, Nick",4.6,24
+Stephen Curry,Golden State Warriors,17/11/2015,2015,3975,1610612744,400828051,3,5,56,1,Driving Finger Roll Layup Shot,2PT Field Goal,1.6,Toronto Raptors,-19,16,7,6.5,"Carroll, DeMarre",1.6,9.8
+Stephen Curry,Golden State Warriors,24/11/2015,2015,3975,1610612744,400828101,1,3,44,1,Driving Finger Roll Layup Shot,2PT Field Goal,4.4,Los Angeles Lakers,-6,11,4,3.5,"Clarkson, Jordan",5.7,19.5
+Stephen Curry,Golden State Warriors,11/12/2015,2015,3975,1610612744,400828223,4,4,48,0,Driving Finger Roll Layup Shot,2PT Field Goal,6.8,Boston Celtics,-20,13,8,6.2,"Olynyk, Kelly",3.2,16.4
+Stephen Curry,Golden State Warriors,25/12/2015,2015,3975,1610612744,400828325,3,7,7,1,Driving Finger Roll Layup Shot,2PT Field Goal,4,Cleveland Cavaliers,-12,21,11,7.6,"Mozgov, Timofey",3.6,15.6
+Stephen Curry,Golden State Warriors,18/12/2015,2015,3975,1610612744,400828284,1,8,52,1,Driving Finger Roll Layup Shot,2PT Field Goal,3.1,Milwaukee Bucks,-22,11,8,6.6,"Monroe, Greg",2.7,16.2
+Stephen Curry,Golden State Warriors,04/01/2016,2015,3975,1610612744,400828407,1,7,1,1,Driving Finger Roll Layup Shot,2PT Field Goal,3.6,Charlotte Hornets,-16,23,2,2.5,"Walker, Kemba",2.9,12.6
+Stephen Curry,Golden State Warriors,09/11/2015,2015,3975,1610612744,400827991,2,0,7,1,Driving Finger Roll Layup Shot,2PT Field Goal,2.7,Detroit Pistons,-7,23,16,15.5,"Johnson, Stanley",3.5,0
+Stephen Curry,Golden State Warriors,05/12/2015,2015,3975,1610612744,400828177,3,7,43,1,Driving Finger Roll Layup Shot,2PT Field Goal,6.8,Toronto Raptors,-30,31,2,2.5,"Scola, Luis",5.5,8.2
+Stephen Curry,Golden State Warriors,14/11/2015,2015,3975,1610612744,400828031,3,10,2,1,Driving Finger Roll Layup Shot,2PT Field Goal,5.3,Brooklyn Nets,-1,21,8,6.6,"Lopez, Brook",4.4,16.9
+Stephen Curry,Golden State Warriors,20/11/2015,2015,3975,1610612744,400828074,4,4,23,0,Driving Finger Roll Layup Shot,2PT Field Goal,2.6,Chicago Bulls,-4,8,0,0.5,"Hinrich, Kirk",3.2,21.4
+Stephen Curry,Golden State Warriors,11/11/2015,2015,3975,1610612744,400828007,3,2,48,1,Driving Finger Roll Layup Shot,2PT Field Goal,6,Memphis Grizzlies,9,11,2,2.9,"Smith, Russ",3.2,14.4
+Stephen Curry,Golden State Warriors,09/11/2015,2015,3975,1610612744,400827991,2,4,44,1,Driving Finger Roll Layup Shot,2PT Field Goal,2.4,Detroit Pistons,-7,23,3,3.9,"Johnson, Stanley",1.5,13.6
+Stephen Curry,Golden State Warriors,28/12/2015,2015,3975,1610612744,400828355,2,0,33,1,Driving Finger Roll Layup Shot,2PT Field Goal,6.3,Sacramento Kings,-6,26,9,7.7,"Acy, Quincy",3,15.7
+Stephen Curry,Golden State Warriors,04/01/2016,2015,3975,1610612744,400828407,4,1,40,1,Driving Finger Roll Layup Shot,2PT Field Goal,6.8,Charlotte Hornets,-6,26,2,3.2,"Walker, Kemba",2.9,11.4
+Stephen Curry,Golden State Warriors,24/11/2015,2015,3975,1610612744,400828101,3,3,25,1,Driving Finger Roll Layup Shot,2PT Field Goal,3.7,Los Angeles Lakers,-1,26,3,3.4,"Russell, D'Angelo",0,11.9
+Stephen Curry,Golden State Warriors,27/10/2015,2015,3975,1610612744,400827890,2,0,0,1,Driving Finger Roll Layup Shot,2PT Field Goal,4.4,New Orleans Pelicans,-9,8,5,4,"Gordon, Eric",2.3,0
+Stephen Curry,Golden State Warriors,05/12/2015,2015,3975,1610612744,400828177,3,0,2,1,Driving Floating Bank Jump Shot,2PT Field Goal,9.6,Toronto Raptors,71,46,1,2,"Joseph, Cory",1.1,0
+Stephen Curry,Golden State Warriors,14/11/2015,2015,3975,1610612744,400828031,3,5,35,1,Driving Floating Bank Jump Shot,2PT Field Goal,38.3,Brooklyn Nets,92,56,0,0,"Lopez, Brook",8.5,22.5
+Stephen Curry,Golden State Warriors,16/12/2015,2015,3975,1610612744,400828268,3,9,39,1,Driving Floating Jump Shot,2PT Field Goal,10.6,Phoenix Suns,53,95,0,0.8,"Chandler, Tyson",4,13
+Stephen Curry,Golden State Warriors,17/11/2015,2015,3975,1610612744,400828051,1,9,51,0,Driving Floating Jump Shot,2PT Field Goal,3.5,Toronto Raptors,-22,43,1,2.5,"Valanciunas, Jonas",0.5,12.7
+Stephen Curry,Golden State Warriors,17/11/2015,2015,3975,1610612744,400828051,3,0,16,1,Driving Floating Jump Shot,2PT Field Goal,9.5,Toronto Raptors,-32,82,15,14,"Joseph, Cory",1,10
+Stephen Curry,Golden State Warriors,20/11/2015,2015,3975,1610612744,400828074,3,9,35,1,Driving Floating Jump Shot,2PT Field Goal,4.8,Chicago Bulls,2,61,9,7.9,"Hinrich, Kirk",0.4,15.4
+Stephen Curry,Golden State Warriors,14/11/2015,2015,3975,1610612744,400828031,3,2,9,1,Driving Floating Jump Shot,2PT Field Goal,3.5,Brooklyn Nets,2,43,0,0.9,"Hollis-Jefferson, Rondae",3,10.8
+Stephen Curry,Golden State Warriors,14/11/2015,2015,3975,1610612744,400828031,1,11,26,1,Driving Floating Jump Shot,2PT Field Goal,6.2,Brooklyn Nets,-14,65,2,3.9,"Johnson, Joe",1.9,12.8
+Stephen Curry,Golden State Warriors,14/11/2015,2015,3975,1610612744,400828031,1,2,13,0,Driving Floating Jump Shot,2PT Field Goal,5.9,Brooklyn Nets,35,65,5,5.2,"Jack, Jarrett",1.4,8.5
+Stephen Curry,Golden State Warriors,05/12/2015,2015,3975,1610612744,400828177,3,3,33,0,Driving Floating Jump Shot,2PT Field Goal,11,Toronto Raptors,-66,72,8,7.2,"Nogueira, Lucas",4.1,16.7
+Stephen Curry,Golden State Warriors,05/12/2015,2015,3975,1610612744,400828177,1,1,36,1,Driving Floating Jump Shot,2PT Field Goal,14.5,Toronto Raptors,48,115,8,6.8,"Joseph, Cory",2.3,17.2
+Stephen Curry,Golden State Warriors,05/12/2015,2015,3975,1610612744,400828177,3,1,58,0,Driving Floating Jump Shot,2PT Field Goal,14.4,Toronto Raptors,-104,110,11,8,"Joseph, Cory",1.4,14.7
+Stephen Curry,Golden State Warriors,05/12/2015,2015,3975,1610612744,400828177,4,5,6,0,Driving Floating Jump Shot,2PT Field Goal,11.7,Toronto Raptors,-84,57,12,9.1,"Joseph, Cory",3.4,14.9
+Stephen Curry,Golden State Warriors,20/11/2015,2015,3975,1610612744,400828074,1,7,30,1,Driving Hook Shot,2PT Field Goal,25.7,Chicago Bulls,14,85,0,7.3,"Butler, Jimmy",6.2,17.7
+Stephen Curry,Golden State Warriors,11/11/2015,2015,3975,1610612744,400828007,1,10,37,1,Driving Layup Shot,2PT Field Goal,0.3,Memphis Grizzlies,25,2,1,1.7,"Allen, Tony",1,5
+Stephen Curry,Golden State Warriors,20/11/2015,2015,3975,1610612744,400828074,4,3,48,1,Driving Layup Shot,2PT Field Goal,3.9,Chicago Bulls,9,3,0,1,"Butler, Jimmy",1.7,11.6
+Stephen Curry,Golden State Warriors,11/11/2015,2015,3975,1610612744,400828007,3,0,13,1,Driving Layup Shot,2PT Field Goal,3.7,Memphis Grizzlies,12,-5,18,15.1,"Barnes, Matt",1.1,7
+Stephen Curry,Golden State Warriors,12/11/2015,2015,3975,1610612744,400828012,2,0,0,1,Driving Layup Shot,2PT Field Goal,0,Minnesota Timberwolves,2,23,0,0,,0,0
+Stephen Curry,Golden State Warriors,02/12/2015,2015,3975,1610612744,400828155,2,3,18,1,Driving Layup Shot,2PT Field Goal,4.1,Charlotte Hornets,9,26,8,6.5,"Roberts, Brian",2.7,17.6
+Stephen Curry,Golden State Warriors,19/11/2015,2015,3975,1610612744,400828064,3,6,50,1,Driving Layup Shot,2PT Field Goal,3.8,Los Angeles Clippers,-1,36,5,4.2,"Pierce, Paul",4.2,19.2
+Stephen Curry,Golden State Warriors,06/11/2015,2015,3975,1610612744,400827970,3,0,42,1,Driving Layup Shot,2PT Field Goal,0,Denver Nuggets,17,18,0,0,,0,0
+Stephen Curry,Golden State Warriors,06/12/2015,2015,3975,1610612744,400828187,1,5,4,1,Driving Layup Shot,2PT Field Goal,2.9,Brooklyn Nets,-24,3,2,2.6,"Robinson, Thomas",0.7,10.9
+Stephen Curry,Golden State Warriors,20/11/2015,2015,3975,1610612744,400828074,3,10,24,1,Driving Layup Shot,2PT Field Goal,6.4,Chicago Bulls,9,16,7,6,"Hinrich, Kirk",0.2,16
+Stephen Curry,Golden State Warriors,07/11/2015,2015,3975,1610612744,400827979,3,4,9,1,Driving Layup Shot,2PT Field Goal,10.1,Sacramento Kings,14,23,9,6.1,"Casspi, Omri",3.7,17.1
+Stephen Curry,Golden State Warriors,08/01/2016,2015,3975,1610612744,400828435,2,2,15,0,Driving Layup Shot,2PT Field Goal,0.4,Portland Trail Blazers,12,7,0,1,"Lillard, Damian",0.4,8.3
+Stephen Curry,Golden State Warriors,02/12/2015,2015,3975,1610612744,400828155,3,8,14,1,Driving Layup Shot,2PT Field Goal,3.2,Charlotte Hornets,-11,11,2,5.2,"Walker, Kemba",1,9.1
+Stephen Curry,Golden State Warriors,11/11/2015,2015,3975,1610612744,400828007,2,2,19,0,Driving Layup Shot,2PT Field Goal,6.3,Memphis Grizzlies,20,-6,9,5.1,"Gasol, Marc",3.5,11.5
+Stephen Curry,Golden State Warriors,12/12/2015,2015,3975,1610612744,400828238,3,1,32,1,Driving Layup Shot,2PT Field Goal,3.9,Milwaukee Bucks,-7,7,2,2.4,"Carter-Williams, Michael",2.8,13
+Stephen Curry,Golden State Warriors,08/12/2015,2015,3975,1610612744,400828201,3,9,11,0,Driving Layup Shot,2PT Field Goal,5.9,Indiana Pacers,-22,7,0,1,"Miles, CJ",3.4,11.4
+Stephen Curry,Golden State Warriors,31/10/2015,2015,3975,1610612744,400827922,3,2,40,1,Driving Layup Shot,2PT Field Goal,4.6,New Orleans Pelicans,-7,45,8,5.2,"Douglas, Toney",6.4,18.2
+Stephen Curry,Golden State Warriors,31/10/2015,2015,3975,1610612744,400827922,3,1,1,1,Driving Layup Shot,2PT Field Goal,1.6,New Orleans Pelicans,3,16,9,7.3,"Davis, Anthony",1.6,16.3
+Stephen Curry,Golden State Warriors,20/11/2015,2015,3975,1610612744,400828074,2,0,19,1,Driving Layup Shot,2PT Field Goal,2.2,Chicago Bulls,10,11,17,13.8,"Noah, Joakim",3.1,10.2
+Stephen Curry,Golden State Warriors,19/11/2015,2015,3975,1610612744,400828064,2,2,33,1,Driving Layup Shot,2PT Field Goal,1.2,Los Angeles Clippers,-29,11,2,3.9,"Johnson, Wesley",1.8,8.3
+Stephen Curry,Golden State Warriors,27/10/2015,2015,3975,1610612744,400827890,4,2,30,0,Driving Layup Shot,2PT Field Goal,2,New Orleans Pelicans,6,7,10,10.8,"Anderson, Ryan",5,12.9
+Stephen Curry,Golden State Warriors,02/12/2015,2015,3975,1610612744,400828155,3,0,58,1,Driving Layup Shot,2PT Field Goal,7.2,Charlotte Hornets,9,8,9,8.7,"Walker, Kemba",1.6,15.8
+Stephen Curry,Golden State Warriors,06/12/2015,2015,3975,1610612744,400828187,3,8,6,1,Driving Layup Shot,2PT Field Goal,2.1,Brooklyn Nets,24,2,7,8.1,"Lopez, Brook",1.1,15.8
+Stephen Curry,Golden State Warriors,02/12/2015,2015,3975,1610612744,400828155,3,4,55,1,Driving Layup Shot,2PT Field Goal,4.1,Charlotte Hornets,-9,3,3,2.5,"Walker, Kemba",2.9,23.9
+Stephen Curry,Golden State Warriors,09/11/2015,2015,3975,1610612744,400827991,3,0,15,1,Driving Layup Shot,2PT Field Goal,12.9,Detroit Pistons,10,8,17,15.8,"Johnson, Stanley",4.1,8.3
+Stephen Curry,Golden State Warriors,02/12/2015,2015,3975,1610612744,400828155,3,10,11,1,Driving Layup Shot,2PT Field Goal,2.6,Charlotte Hornets,14,13,3,4.4,"Walker, Kemba",2.9,13.3
+Stephen Curry,Golden State Warriors,27/10/2015,2015,3975,1610612744,400827890,1,0,45,1,Driving Layup Shot,2PT Field Goal,4.9,New Orleans Pelicans,12,18,0,2.9,"Smith, Ish",2.6,12.4
+Stephen Curry,Golden State Warriors,04/01/2016,2015,3975,1610612744,400828407,1,9,7,1,Driving Reverse Layup Shot,2PT Field Goal,0.7,Charlotte Hornets,-6,11,1,1.3,"Walker, Kemba",4.4,18.5
+Stephen Curry,Golden State Warriors,08/01/2016,2015,3975,1610612744,400828435,3,1,58,0,Driving Reverse Layup Shot,2PT Field Goal,5.1,Portland Trail Blazers,12,2,2,1.6,"Lillard, Damian",1.5,15
+Stephen Curry,Golden State Warriors,14/11/2015,2015,3975,1610612744,400828031,4,4,36,1,Driving Reverse Layup Shot,2PT Field Goal,3.4,Brooklyn Nets,10,2,3,3.5,"Young, Thaddeus",3.4,3.6
+Stephen Curry,Golden State Warriors,12/12/2015,2015,3975,1610612744,400828238,1,6,1,1,Driving Reverse Layup Shot,2PT Field Goal,2.2,Milwaukee Bucks,-11,8,2,4.1,"Monroe, Greg",4.2,12.7
+Stephen Curry,Golden State Warriors,02/11/2015,2015,3975,1610612744,400827938,3,7,49,0,Driving Reverse Layup Shot,2PT Field Goal,3.8,Memphis Grizzlies,-9,7,4,5.9,"Green, JaMychal",2.9,17.2
+Stephen Curry,Golden State Warriors,18/12/2015,2015,3975,1610612744,400828284,4,2,16,1,Driving Reverse Layup Shot,2PT Field Goal,0.7,Milwaukee Bucks,-4,16,10,9.1,"Monroe, Greg",5.1,14.6
+Stephen Curry,Golden State Warriors,23/12/2015,2015,3975,1610612744,400828321,1,7,43,1,Driving Reverse Layup Shot,2PT Field Goal,1.9,Utah Jazz,-14,11,5,4.6,"Favors, Derrick",2.5,20
+Stephen Curry,Golden State Warriors,06/11/2015,2015,3975,1610612744,400827970,3,2,28,1,Driving Reverse Layup Shot,2PT Field Goal,2.2,Denver Nuggets,12,13,1,1.3,"Foye, Randy",5,8
+Stephen Curry,Golden State Warriors,27/11/2015,2015,3975,1610612744,400828123,1,0,3,0,Driving Reverse Layup Shot,2PT Field Goal,2.6,Phoenix Suns,-17,-1,3,2.7,"Teletovic, Mirza",1.6,0
+Stephen Curry,Golden State Warriors,27/10/2015,2015,3975,1610612744,400827890,2,4,54,1,Fadeaway Bank shot,2PT Field Goal,10.8,New Orleans Pelicans,-96,85,1,4.6,"Robinson, Nate",5.1,19.5
+Stephen Curry,Golden State Warriors,04/01/2016,2015,3975,1610612744,400828407,3,5,18,1,Fadeaway Jump Shot,3PT Field Goal,24.6,Charlotte Hornets,204,139,3,6,"Walker, Kemba",4.3,17.6
+Stephen Curry,Golden State Warriors,04/01/2016,2015,3975,1610612744,400828407,4,0,42,0,Fadeaway Jump Shot,3PT Field Goal,24.6,Charlotte Hornets,187,183,13,10.9,"Walker, Kemba",4.7,9.6
+Stephen Curry,Golden State Warriors,22/11/2015,2015,3975,1610612744,400828087,1,8,50,0,Fadeaway Jump Shot,3PT Field Goal,24.1,Denver Nuggets,195,160,0,0.8,"Harris, Gary",3.8,14.3
+Stephen Curry,Golden State Warriors,31/10/2015,2015,3975,1610612744,400827922,4,3,13,1,Fadeaway Jump Shot,2PT Field Goal,14.5,New Orleans Pelicans,145,-11,15,13.7,"Holiday, Jrue",4.5,10.4
+Stephen Curry,Golden State Warriors,09/01/2016,2015,3975,1610612744,400828443,2,6,48,1,Fadeaway Jump Shot,3PT Field Goal,26.1,Sacramento Kings,-176,169,0,0.7,"Cauley-Stein, Willie",5.4,8.7
+Stephen Curry,Golden State Warriors,11/12/2015,2015,3975,1610612744,400828223,4,5,40,1,Fadeaway Jump Shot,3PT Field Goal,24,Boston Celtics,42,247,0,0.6,"Bradley, Avery",1.5,14.3
+Stephen Curry,Golden State Warriors,14/11/2015,2015,3975,1610612744,400828031,3,10,28,0,Fadeaway Jump Shot,3PT Field Goal,24.5,Brooklyn Nets,-163,198,0,0.6,"Jack, Jarrett",3.1,16.4
+Stephen Curry,Golden State Warriors,22/11/2015,2015,3975,1610612744,400828087,3,11,30,1,Fadeaway Jump Shot,2PT Field Goal,14.7,Denver Nuggets,-160,3,5,4.5,"Jokic, Nikola",6.8,11
+Stephen Curry,Golden State Warriors,22/11/2015,2015,3975,1610612744,400828087,1,4,17,1,Fadeaway Jump Shot,3PT Field Goal,23.5,Denver Nuggets,240,-5,0,0.7,"Arthur, Darrell",7.8,20.6
+Stephen Curry,Golden State Warriors,05/01/2016,2015,3975,1610612744,400828411,1,8,7,0,Finger Roll Layup Shot,2PT Field Goal,5.4,Los Angeles Lakers,4,26,8,7.7,"Clarkson, Jordan",2.1,16.3
+Stephen Curry,Golden State Warriors,30/11/2015,2015,3975,1610612744,400828146,2,4,29,0,Finger Roll Layup Shot,2PT Field Goal,6.2,Utah Jazz,-24,0,9,8.4,"Neto, Raul",0.1,15.5
+Stephen Curry,Golden State Warriors,30/11/2015,2015,3975,1610612744,400828146,1,3,1,0,Finger Roll Layup Shot,2PT Field Goal,7.9,Utah Jazz,28,11,8,7.7,"Neto, Raul",2.5,15.4
+Stephen Curry,Golden State Warriors,05/12/2015,2015,3975,1610612744,400828177,2,1,25,1,Finger Roll Layup Shot,2PT Field Goal,5.7,Toronto Raptors,-2,41,3,3.1,"Joseph, Cory",3.4,9.2
+Stephen Curry,Golden State Warriors,05/01/2016,2015,3975,1610612744,400828411,3,7,39,1,Finger Roll Layup Shot,2PT Field Goal,4.2,Los Angeles Lakers,4,26,3,2.5,"Clarkson, Jordan",1.3,14.6
+Stephen Curry,Golden State Warriors,30/11/2015,2015,3975,1610612744,400828146,1,5,6,1,Finger Roll Layup Shot,2PT Field Goal,5.9,Utah Jazz,32,7,5,4.9,"Gobert, Rudy",3.3,10.5
+Stephen Curry,Golden State Warriors,07/11/2015,2015,3975,1610612744,400827979,3,7,51,1,Floating Jump shot,2PT Field Goal,11.5,Sacramento Kings,-38,65,8,6.5,"Rondo, Rajon",2.7,17.6
+Stephen Curry,Golden State Warriors,12/11/2015,2015,3975,1610612744,400828012,2,3,25,1,Floating Jump shot,2PT Field Goal,0,Minnesota Timberwolves,-1,110,0,0,,0,0
+Stephen Curry,Golden State Warriors,06/12/2015,2015,3975,1610612744,400828187,2,2,45,1,Floating Jump shot,2PT Field Goal,12.6,Brooklyn Nets,84,129,12,11,"Young, Thaddeus",3.4,13.4
+Stephen Curry,Golden State Warriors,11/12/2015,2015,3975,1610612744,400828223,1,5,42,0,Floating Jump shot,2PT Field Goal,6.8,Boston Celtics,53,8,0,1.2,"Sullinger, Jared",2.2,7.4
+Stephen Curry,Golden State Warriors,12/11/2015,2015,3975,1610612744,400828012,1,0,53,0,Floating Jump shot,2PT Field Goal,0,Minnesota Timberwolves,27,61,0,0,,0,0
+Stephen Curry,Golden State Warriors,04/01/2016,2015,3975,1610612744,400828407,2,0,13,1,Floating Jump shot,2PT Field Goal,9.1,Charlotte Hornets,89,21,17,16.5,"Walker, Kemba",1.9,6.4
+Stephen Curry,Golden State Warriors,31/10/2015,2015,3975,1610612744,400827922,2,6,51,1,Floating Jump shot,2PT Field Goal,10.5,New Orleans Pelicans,13,105,14,10,"Douglas, Toney",1.2,13
+Stephen Curry,Golden State Warriors,11/12/2015,2015,3975,1610612744,400828223,1,4,38,0,Floating Jump shot,2PT Field Goal,9.6,Boston Celtics,30,70,4,4.1,"Turner, Evan",0.8,9.4
+Stephen Curry,Golden State Warriors,12/11/2015,2015,3975,1610612744,400828012,3,0,25,0,Floating Jump shot,2PT Field Goal,0,Minnesota Timberwolves,-45,87,0,0,,0,0
+Stephen Curry,Golden State Warriors,02/11/2015,2015,3975,1610612744,400827938,3,2,33,1,Floating Jump shot,2PT Field Goal,11.3,Memphis Grizzlies,12,97,1,2.1,"Gasol, Marc",7.2,15.9
+Stephen Curry,Golden State Warriors,04/01/2016,2015,3975,1610612744,400828407,4,4,53,1,Floating Jump shot,2PT Field Goal,5.3,Charlotte Hornets,-92,70,7,8,"Roberts, Brian",3,16
+Stephen Curry,Golden State Warriors,14/11/2015,2015,3975,1610612744,400828031,4,6,54,0,Floating Jump shot,2PT Field Goal,9.1,Brooklyn Nets,-6,85,0,0.8,"Larkin, Shane",0.8,14.2
+Stephen Curry,Golden State Warriors,12/12/2015,2015,3975,1610612744,400828238,2,3,4,0,Floating Jump shot,2PT Field Goal,11.5,Milwaukee Bucks,1,90,4,2.4,"Mayo, O.J.",4.3,12.7
+Stephen Curry,Golden State Warriors,06/11/2015,2015,3975,1610612744,400827970,3,3,23,1,Floating Jump shot,2PT Field Goal,11.2,Denver Nuggets,10,111,1,1.5,"Mudiay, Emmanuel",6.6,9.2
+Stephen Curry,Golden State Warriors,25/12/2015,2015,3975,1610612744,400828325,1,4,10,0,Floating Jump shot,2PT Field Goal,10.5,Cleveland Cavaliers,-1,85,3,2.8,"Dellavedova, Matthew",0.4,14.7
+Stephen Curry,Golden State Warriors,09/11/2015,2015,3975,1610612744,400827991,1,2,8,0,Floating Jump shot,2PT Field Goal,9.6,Detroit Pistons,96,80,2,2.5,"Tolliver, Anthony",0.4,12.5
+Stephen Curry,Golden State Warriors,17/11/2015,2015,3975,1610612744,400828051,4,6,24,0,Floating Jump shot,2PT Field Goal,8.7,Toronto Raptors,66,90,0,0,"Joseph, Cory",2.3,15.4
+Stephen Curry,Golden State Warriors,30/10/2015,2015,3975,1610612744,400827917,3,8,43,1,Floating Jump shot,2PT Field Goal,9.3,Houston Rockets,35,75,3,3,"Harden, James",4,14.9
+Stephen Curry,Golden State Warriors,27/10/2015,2015,3975,1610612744,400827890,4,5,21,0,Floating Jump shot,2PT Field Goal,13.5,New Orleans Pelicans,-122,43,9,11.1,"Gee, Alonzo",4.2,13
+Stephen Curry,Golden State Warriors,02/11/2015,2015,3975,1610612744,400827938,2,2,34,1,Floating Jump shot,2PT Field Goal,13.7,Memphis Grizzlies,-7,62,2,1.4,"Conley, Mike",2.8,15.7
+Stephen Curry,Golden State Warriors,09/11/2015,2015,3975,1610612744,400827991,2,6,25,0,Floating Jump shot,2PT Field Goal,14.8,Detroit Pistons,-79,141,8,7.5,"Baynes, Aron",4.2,17
+Stephen Curry,Golden State Warriors,23/12/2015,2015,3975,1610612744,400828321,1,0,29,1,Floating Jump shot,2PT Field Goal,5.7,Utah Jazz,-96,28,7,5.9,"Ingles, Joe",2.5,17.4
+Stephen Curry,Golden State Warriors,09/11/2015,2015,3975,1610612744,400827991,1,4,18,0,Floating Jump shot,2PT Field Goal,6.7,Detroit Pistons,-1,46,2,1.9,"Drummond, Andre",4.5,8.2
+Stephen Curry,Golden State Warriors,17/11/2015,2015,3975,1610612744,400828051,3,4,13,1,Floating Jump shot,2PT Field Goal,10.6,Toronto Raptors,96,110,8,6.7,"Lowry, Kyle",0.9,17.2
+Stephen Curry,Golden State Warriors,30/10/2015,2015,3975,1610612744,400827917,3,6,41,1,Floating Jump shot,2PT Field Goal,10.2,Houston Rockets,-43,110,6,6.4,"Jones, Terrence",3.4,16.3
+Stephen Curry,Golden State Warriors,09/11/2015,2015,3975,1610612744,400827991,3,8,40,1,Jump Bank Shot,3PT Field Goal,25.1,Detroit Pistons,150,213,1,1.4,"Drummond, Andre",4.4,20.6
+Stephen Curry,Golden State Warriors,11/11/2015,2015,3975,1610612744,400828007,1,2,31,0,Jump Bank Shot,2PT Field Goal,14.7,Memphis Grizzlies,159,106,2,2,"Conley, Mike",2.1,5
+Stephen Curry,Golden State Warriors,20/11/2015,2015,3975,1610612744,400828074,1,9,50,1,Jump Bank Shot,3PT Field Goal,23.8,Chicago Bulls,-127,213,10,7.6,"Gasol, Pau",5.4,16.4
+Stephen Curry,Golden State Warriors,04/01/2016,2015,3975,1610612744,400828407,3,9,40,0,Jump Bank Shot,2PT Field Goal,8.9,Charlotte Hornets,-106,43,5,5.2,"Zeller, Cody",2.6,17.9
+Stephen Curry,Golden State Warriors,12/11/2015,2015,3975,1610612744,400828012,4,1,55,1,Jump Bank Shot,2PT Field Goal,0,Minnesota Timberwolves,151,115,0,0,,0,0
+Stephen Curry,Golden State Warriors,27/11/2015,2015,3975,1610612744,400828123,3,5,53,0,Jump Shot,3PT Field Goal,24.8,Phoenix Suns,-97,219,8,4.6,"Morris, Markieff",5.6,16.6
+Stephen Curry,Golden State Warriors,25/12/2015,2015,3975,1610612744,400828325,1,2,15,1,Jump Shot,3PT Field Goal,25,Cleveland Cavaliers,-204,213,0,0.8,"Dellavedova, Matthew",6.4,24
+Stephen Curry,Golden State Warriors,05/12/2015,2015,3975,1610612744,400828177,1,2,40,0,Jump Shot,3PT Field Goal,24.1,Toronto Raptors,-2,242,0,0.6,"Joseph, Cory",4.1,11.8
+Stephen Curry,Golden State Warriors,25/12/2015,2015,3975,1610612744,400828325,3,5,7,1,Jump Shot,2PT Field Goal,4.2,Cleveland Cavaliers,17,28,0,0.6,"Dellavedova, Matthew",4,11.8
+Stephen Curry,Golden State Warriors,25/12/2015,2015,3975,1610612744,400828325,4,0,28,0,Jump Shot,3PT Field Goal,26.7,Cleveland Cavaliers,171,200,4,4.5,"Dellavedova, Matthew",2.1,6.3
+Stephen Curry,Golden State Warriors,25/12/2015,2015,3975,1610612744,400828325,2,0,1,0,Jump Shot,3PT Field Goal,8.2,Cleveland Cavaliers,0,712,0,0.4,"Mozgov, Timofey",6,0
+Stephen Curry,Golden State Warriors,25/12/2015,2015,3975,1610612744,400828325,1,6,53,0,Jump Shot,2PT Field Goal,18.9,Cleveland Cavaliers,184,11,0,1,"Mozgov, Timofey",5.5,13.6
+Stephen Curry,Golden State Warriors,25/12/2015,2015,3975,1610612744,400828325,3,3,5,0,Jump Shot,3PT Field Goal,29.7,Cleveland Cavaliers,-92,247,4,4.5,"Dellavedova, Matthew",4.5,15.7
+Stephen Curry,Golden State Warriors,05/12/2015,2015,3975,1610612744,400828177,2,2,10,1,Jump Shot,3PT Field Goal,24,Toronto Raptors,-215,115,0,0.7,"Carroll, DeMarre",6.4,13.7
+Stephen Curry,Golden State Warriors,09/01/2016,2015,3975,1610612744,400828443,4,0,52,1,Jump Shot,3PT Field Goal,26,Sacramento Kings,-205,169,0,1.1,"Belinelli, Marco",9.4,6.6
+Stephen Curry,Golden State Warriors,09/01/2016,2015,3975,1610612744,400828443,4,4,23,1,Jump Shot,3PT Field Goal,22.6,Sacramento Kings,-232,16,0,1.4,"Rondo, Rajon",15.7,14.2
+Stephen Curry,Golden State Warriors,09/01/2016,2015,3975,1610612744,400828443,2,2,20,1,Jump Shot,3PT Field Goal,25.5,Sacramento Kings,46,278,2,2.6,"Cousins, DeMarcus",5.4,11.7
+Stephen Curry,Golden State Warriors,09/01/2016,2015,3975,1610612744,400828443,2,5,24,1,Jump Shot,2PT Field Goal,10.8,Sacramento Kings,4,90,4,2.8,"Gay, Rudy",5.6,8.2
+Stephen Curry,Golden State Warriors,09/01/2016,2015,3975,1610612744,400828443,1,8,5,0,Jump Shot,3PT Field Goal,24.9,Sacramento Kings,220,131,0,0.8,"Rondo, Rajon",4.8,22.9
+Stephen Curry,Golden State Warriors,09/01/2016,2015,3975,1610612744,400828443,4,4,40,0,Jump Shot,2PT Field Goal,3.4,Sacramento Kings,37,11,0,0.6,"Cousins, DeMarcus",5.6,8
+Stephen Curry,Golden State Warriors,09/01/2016,2015,3975,1610612744,400828443,4,6,38,1,Jump Shot,2PT Field Goal,7.1,Sacramento Kings,12,70,0,0.6,"Rondo, Rajon",0.1,6.2
+Stephen Curry,Golden State Warriors,09/01/2016,2015,3975,1610612744,400828443,3,1,54,1,Jump Shot,3PT Field Goal,25,Sacramento Kings,-225,120,9,8.3,"Curry, Seth",3.3,10.3
+Stephen Curry,Golden State Warriors,09/01/2016,2015,3975,1610612744,400828443,4,5,4,1,Jump Shot,3PT Field Goal,25.5,Sacramento Kings,189,174,0,0.6,"Rondo, Rajon",5.5,10.6
+Stephen Curry,Golden State Warriors,09/01/2016,2015,3975,1610612744,400828443,2,1,33,1,Jump Shot,3PT Field Goal,26.1,Sacramento Kings,-148,228,5,3.8,"Rondo, Rajon",4,20.2
+Stephen Curry,Golden State Warriors,09/01/2016,2015,3975,1610612744,400828443,1,9,19,0,Jump Shot,3PT Field Goal,26,Sacramento Kings,46,244,0,0.6,"Rondo, Rajon",6.2,12.3
+Stephen Curry,Golden State Warriors,09/01/2016,2015,3975,1610612744,400828443,2,4,59,0,Jump Shot,2PT Field Goal,11.2,Sacramento Kings,97,11,16,11.4,"Cousins, DeMarcus",5.1,11.5
+Stephen Curry,Golden State Warriors,09/01/2016,2015,3975,1610612744,400828443,1,3,42,0,Jump Shot,3PT Field Goal,26.9,Sacramento Kings,-84,239,5,4.8,"Gay, Rudy",8,18.6
+Stephen Curry,Golden State Warriors,09/01/2016,2015,3975,1610612744,400828443,3,7,1,0,Jump Shot,2PT Field Goal,5.4,Sacramento Kings,-24,65,0,1.2,"Belinelli, Marco",4.2,11.8
+Stephen Curry,Golden State Warriors,09/01/2016,2015,3975,1610612744,400828443,2,0,32,0,Jump Shot,3PT Field Goal,25.4,Sacramento Kings,213,174,3,4.7,"Rondo, Rajon",4.3,11.2
+Stephen Curry,Golden State Warriors,09/01/2016,2015,3975,1610612744,400828443,2,4,21,0,Jump Shot,3PT Field Goal,25.5,Sacramento Kings,-43,249,8,7.4,"Rondo, Rajon",5,15.3
+Stephen Curry,Golden State Warriors,05/12/2015,2015,3975,1610612744,400828177,3,1,50,1,Jump Shot,3PT Field Goal,23.8,Toronto Raptors,-238,8,0,0.7,"Joseph, Cory",3.9,9.1
+Stephen Curry,Golden State Warriors,05/12/2015,2015,3975,1610612744,400828177,1,8,49,1,Jump Shot,3PT Field Goal,24.8,Toronto Raptors,4,242,0,2.2,"DeRozan, DeMar",6.3,12.6
+Stephen Curry,Golden State Warriors,05/12/2015,2015,3975,1610612744,400828177,1,6,39,1,Jump Shot,3PT Field Goal,24.7,Toronto Raptors,50,242,0,0.9,"Lowry, Kyle",4.8,17.2
+Stephen Curry,Golden State Warriors,05/12/2015,2015,3975,1610612744,400828177,3,1,5,0,Jump Shot,3PT Field Goal,25.7,Toronto Raptors,184,156,1,3.8,"Joseph, Cory",2.4,13.3
+Stephen Curry,Golden State Warriors,05/12/2015,2015,3975,1610612744,400828177,4,4,23,0,Jump Shot,3PT Field Goal,28.9,Toronto Raptors,-210,198,0,0.2,"Joseph, Cory",6.8,1.4
+Stephen Curry,Golden State Warriors,06/12/2015,2015,3975,1610612744,400828187,3,0,1,1,Jump Shot,3PT Field Goal,24.4,Brooklyn Nets,-207,129,2,1.3,"Johnson, Joe",2.5,0
+Stephen Curry,Golden State Warriors,06/12/2015,2015,3975,1610612744,400828187,3,3,23,0,Jump Shot,3PT Field Goal,23.1,Brooklyn Nets,233,-21,1,1,"Larkin, Shane",3.4,4.5
+Stephen Curry,Golden State Warriors,06/12/2015,2015,3975,1610612744,400828187,3,1,45,1,Jump Shot,3PT Field Goal,24.9,Brooklyn Nets,173,213,3,3.1,"Jack, Jarrett",4.4,18.4
+Stephen Curry,Golden State Warriors,06/12/2015,2015,3975,1610612744,400828187,3,4,7,1,Jump Shot,3PT Field Goal,24.4,Brooklyn Nets,-230,31,0,1.2,"Larkin, Shane",12.6,14.3
+Stephen Curry,Golden State Warriors,06/12/2015,2015,3975,1610612744,400828187,1,7,36,1,Jump Shot,3PT Field Goal,24.2,Brooklyn Nets,-232,95,0,0.9,"Johnson, Joe",7.7,8.7
+Stephen Curry,Golden State Warriors,06/12/2015,2015,3975,1610612744,400828187,2,1,49,1,Jump Shot,3PT Field Goal,29.9,Brooklyn Nets,-106,269,14,7.9,"Larkin, Shane",6.1,18.8
+Stephen Curry,Golden State Warriors,06/12/2015,2015,3975,1610612744,400828187,3,10,16,0,Jump Shot,3PT Field Goal,25.1,Brooklyn Nets,0,249,0,0.7,"Jack, Jarrett",2.9,15.5
+Stephen Curry,Golden State Warriors,06/12/2015,2015,3975,1610612744,400828187,3,4,37,0,Jump Shot,3PT Field Goal,25.7,Brooklyn Nets,-220,110,0,0.9,"Larkin, Shane",3.9,18.5
+Stephen Curry,Golden State Warriors,06/12/2015,2015,3975,1610612744,400828187,1,6,27,0,Jump Shot,3PT Field Goal,24.8,Brooklyn Nets,-192,160,0,1.4,"Jack, Jarrett",2.9,18.5
+Stephen Curry,Golden State Warriors,04/01/2016,2015,3975,1610612744,400828407,1,11,19,1,Jump Shot,3PT Field Goal,25.4,Charlotte Hornets,-186,180,0,0.8,"Williams, Marvin",5.1,11.8
+Stephen Curry,Golden State Warriors,04/01/2016,2015,3975,1610612744,400828407,1,6,38,0,Jump Shot,3PT Field Goal,22.9,Charlotte Hornets,225,-1,0,1,"Hairston, PJ",3.6,18.2
+Stephen Curry,Golden State Warriors,05/01/2016,2015,3975,1610612744,400828411,2,0,9,1,Jump Shot,3PT Field Goal,22.5,Los Angeles Lakers,141,214,0,4.8,"Brown, Anthony",0.8,9.8
+Stephen Curry,Golden State Warriors,05/01/2016,2015,3975,1610612744,400828411,1,10,36,0,Jump Shot,3PT Field Goal,24.8,Los Angeles Lakers,143,193,3,5.7,"Nance Jr., Larry",6.3,21
+Stephen Curry,Golden State Warriors,05/01/2016,2015,3975,1610612744,400828411,3,5,34,1,Jump Shot,3PT Field Goal,6.9,Los Angeles Lakers,-237,-21,1,1.2,"Hibbert, Roy",2.6,9.8
+Stephen Curry,Golden State Warriors,05/01/2016,2015,3975,1610612744,400828411,3,9,10,0,Jump Shot,2PT Field Goal,24.9,Los Angeles Lakers,-60,-6,3,3.5,"Clarkson, Jordan",2.8,17.4
+Stephen Curry,Golden State Warriors,05/01/2016,2015,3975,1610612744,400828411,2,2,50,0,Jump Shot,3PT Field Goal,3.1,Los Angeles Lakers,235,-15,10,6.4,"Nance Jr., Larry",0.7,18
+Stephen Curry,Golden State Warriors,05/01/2016,2015,3975,1610612744,400828411,2,6,38,0,Jump Shot,3PT Field Goal,24.2,Los Angeles Lakers,186,178,2,3.8,"Randle, Julius",3,4
+Stephen Curry,Golden State Warriors,05/01/2016,2015,3975,1610612744,400828411,3,9,43,0,Jump Shot,3PT Field Goal,23.7,Los Angeles Lakers,164,188,16,14.1,"Clarkson, Jordan",5,5.7
+Stephen Curry,Golden State Warriors,11/12/2015,2015,3975,1610612744,400828223,3,10,32,1,Jump Shot,3PT Field Goal,23.8,Boston Celtics,20,247,3,3.2,"Bradley, Avery",3.4,11.6
+Stephen Curry,Golden State Warriors,11/12/2015,2015,3975,1610612744,400828223,5,1,41,0,Jump Shot,3PT Field Goal,24.8,Boston Celtics,-145,214,10,9.5,"Turner, Evan",3,11.9
+Stephen Curry,Golden State Warriors,11/12/2015,2015,3975,1610612744,400828223,4,0,46,1,Jump Shot,3PT Field Goal,26.9,Boston Celtics,-24,288,0,0.6,"Bradley, Avery",5.2,9.7
+Stephen Curry,Golden State Warriors,11/12/2015,2015,3975,1610612744,400828223,1,6,9,0,Jump Shot,3PT Field Goal,24.9,Boston Celtics,6,267,0,0.7,"Crowder, Jae",4.3,0.8
+Stephen Curry,Golden State Warriors,11/12/2015,2015,3975,1610612744,400828223,2,4,59,1,Jump Shot,3PT Field Goal,23.7,Boston Celtics,-196,149,0,0.7,"Bradley, Avery",3.2,12.4
+Stephen Curry,Golden State Warriors,11/12/2015,2015,3975,1610612744,400828223,2,0,7,0,Jump Shot,3PT Field Goal,24.1,Boston Celtics,128,237,9,13.1,"Bradley, Avery",0.4,6.5
+Stephen Curry,Golden State Warriors,16/12/2015,2015,3975,1610612744,400828268,3,0,48,1,Jump Shot,2PT Field Goal,19.4,Phoenix Suns,120,165,0,0.7,"Warren, TJ",2.9,20
+Stephen Curry,Golden State Warriors,11/12/2015,2015,3975,1610612744,400828223,5,0,23,0,Jump Shot,3PT Field Goal,25.1,Boston Celtics,176,195,0,0.7,"Crowder, Jae",4.7,9
+Stephen Curry,Golden State Warriors,08/12/2015,2015,3975,1610612744,400828201,1,3,8,1,Jump Shot,3PT Field Goal,25.9,Indiana Pacers,187,188,0,0.8,"George, Paul",6.1,15.4
+Stephen Curry,Golden State Warriors,11/12/2015,2015,3975,1610612744,400828223,1,10,19,0,Jump Shot,2PT Field Goal,21.8,Boston Celtics,148,146,0,0.9,"Bradley, Avery",2,13
+Stephen Curry,Golden State Warriors,11/12/2015,2015,3975,1610612744,400828223,1,7,45,0,Jump Shot,3PT Field Goal,28.5,Boston Celtics,143,232,2,3.5,"Thomas, Isaiah",4.2,22.2
+Stephen Curry,Golden State Warriors,11/12/2015,2015,3975,1610612744,400828223,4,2,31,0,Jump Shot,3PT Field Goal,23.8,Boston Celtics,19,262,1,2.2,"Crowder, Jae",3.6,11.1
+Stephen Curry,Golden State Warriors,08/12/2015,2015,3975,1610612744,400828201,3,2,38,1,Jump Shot,2PT Field Goal,11.4,Indiana Pacers,-25,77,13,10.2,"Hill, George",1.5,12.7
+Stephen Curry,Golden State Warriors,08/12/2015,2015,3975,1610612744,400828201,4,3,7,0,Jump Shot,3PT Field Goal,26.6,Indiana Pacers,168,208,15,13.1,"Hill, Solomon",4.2,10.2
+Stephen Curry,Golden State Warriors,08/12/2015,2015,3975,1610612744,400828201,1,1,53,1,Jump Shot,3PT Field Goal,25.3,Indiana Pacers,-187,193,0,1,"Stuckey, Rodney",4.3,20.6
+Stephen Curry,Golden State Warriors,08/12/2015,2015,3975,1610612744,400828201,2,4,2,0,Jump Shot,3PT Field Goal,18.4,Indiana Pacers,110,213,5,3.8,"Mahinmi, Ian",5,11.5
+Stephen Curry,Golden State Warriors,08/12/2015,2015,3975,1610612744,400828201,2,3,3,1,Jump Shot,3PT Field Goal,24.7,Indiana Pacers,218,120,0,0.8,"Hill, George",7.4,18.2
+Stephen Curry,Golden State Warriors,08/12/2015,2015,3975,1610612744,400828201,3,0,30,0,Jump Shot,3PT Field Goal,29.5,Indiana Pacers,197,208,5,4.8,"Hill, Jordan",7.1,19.2
+Stephen Curry,Golden State Warriors,08/12/2015,2015,3975,1610612744,400828201,1,0,32,0,Jump Shot,3PT Field Goal,25.2,Indiana Pacers,-140,203,7,6.3,"Ellis, Monta",1.1,17.7
+Stephen Curry,Golden State Warriors,08/12/2015,2015,3975,1610612744,400828201,4,1,43,0,Jump Shot,2PT Field Goal,8.1,Indiana Pacers,27,36,12,10.4,"Hill, Solomon",2.1,11.8
+Stephen Curry,Golden State Warriors,08/12/2015,2015,3975,1610612744,400828201,1,7,7,0,Jump Shot,3PT Field Goal,25.4,Indiana Pacers,-199,193,0,0.6,"George, Paul",5.1,12.4
+Stephen Curry,Golden State Warriors,08/12/2015,2015,3975,1610612744,400828201,1,11,47,0,Jump Shot,3PT Field Goal,25.4,Indiana Pacers,135,218,2,3.1,"Hill, George",4.2,14.6
+Stephen Curry,Golden State Warriors,08/12/2015,2015,3975,1610612744,400828201,2,3,50,0,Jump Shot,3PT Field Goal,24.9,Indiana Pacers,209,154,0,0.8,"Miles, CJ",8,20.6
+Stephen Curry,Golden State Warriors,08/12/2015,2015,3975,1610612744,400828201,2,0,5,0,Jump Shot,3PT Field Goal,25.1,Indiana Pacers,210,144,22,19.6,"Miles, CJ",3.5,4.3
+Stephen Curry,Golden State Warriors,16/12/2015,2015,3975,1610612744,400828268,2,1,4,0,Jump Shot,3PT Field Goal,28.1,Phoenix Suns,-66,264,1,3.2,"Chandler, Tyson",5.9,12.1
+Stephen Curry,Golden State Warriors,16/12/2015,2015,3975,1610612744,400828268,1,4,28,0,Jump Shot,3PT Field Goal,27.8,Phoenix Suns,114,247,0,0.8,"Bledsoe, Eric",3.4,19.2
+Stephen Curry,Golden State Warriors,11/12/2015,2015,3975,1610612744,400828223,2,0,0,0,Jump Shot,2PT Field Goal,21.4,Boston Celtics,-79,208,1,3.6,"Bradley, Avery",0.8,0
+Stephen Curry,Golden State Warriors,11/12/2015,2015,3975,1610612744,400828223,1,9,23,1,Jump Shot,3PT Field Goal,24.8,Boston Celtics,140,223,0,0.6,"Bradley, Avery",4.8,7
+Stephen Curry,Golden State Warriors,11/12/2015,2015,3975,1610612744,400828223,4,3,20,0,Jump Shot,2PT Field Goal,18.3,Boston Celtics,145,129,8,7,"Turner, Evan",2.1,18.4
+Stephen Curry,Golden State Warriors,11/12/2015,2015,3975,1610612744,400828223,4,0,23,0,Jump Shot,2PT Field Goal,20.1,Boston Celtics,-147,95,0,0.6,"Bradley, Avery",3.3,7.5
+Stephen Curry,Golden State Warriors,11/12/2015,2015,3975,1610612744,400828223,3,6,32,0,Jump Shot,2PT Field Goal,23.1,Boston Celtics,163,134,6,8.3,"Bradley, Avery",3,11.3
+Stephen Curry,Golden State Warriors,11/12/2015,2015,3975,1610612744,400828223,2,2,0,0,Jump Shot,3PT Field Goal,26,Boston Celtics,210,164,0,0.7,"Bradley, Avery",4.2,18.7
+Stephen Curry,Golden State Warriors,18/12/2015,2015,3975,1610612744,400828284,1,0,1,0,Jump Shot,3PT Field Goal,27.8,Milwaukee Bucks,-204,183,6,4.7,"Carter-Williams, Michael",1.9,0
+Stephen Curry,Golden State Warriors,18/12/2015,2015,3975,1610612744,400828284,4,0,51,0,Jump Shot,3PT Field Goal,26.2,Milwaukee Bucks,217,120,0,0,"Mayo, O.J.",2.4,4.4
+Stephen Curry,Golden State Warriors,18/12/2015,2015,3975,1610612744,400828284,1,11,20,1,Jump Shot,3PT Field Goal,24.6,Milwaukee Bucks,148,190,0,0.6,"Carter-Williams, Michael",4.6,12.7
+Stephen Curry,Golden State Warriors,18/12/2015,2015,3975,1610612744,400828284,2,0,5,0,Jump Shot,3PT Field Goal,24.9,Milwaukee Bucks,-194,159,17,17.2,"Carter-Williams, Michael",3.3,6.8
+Stephen Curry,Golden State Warriors,18/12/2015,2015,3975,1610612744,400828284,2,0,26,0,Jump Shot,3PT Field Goal,30.5,Milwaukee Bucks,42,252,3,4,"Middleton, Khris",4.1,20
+Stephen Curry,Golden State Warriors,18/12/2015,2015,3975,1610612744,400828284,1,6,48,1,Jump Shot,2PT Field Goal,13.4,Milwaukee Bucks,-37,97,0,0,"Carter-Williams, Michael",2.1,20.5
+Stephen Curry,Golden State Warriors,18/12/2015,2015,3975,1610612744,400828284,1,8,23,0,Jump Shot,2PT Field Goal,11.7,Milwaukee Bucks,-17,85,13,7.1,"Carter-Williams, Michael",3.2,15.8
+Stephen Curry,Golden State Warriors,18/12/2015,2015,3975,1610612744,400828284,2,4,17,0,Jump Shot,2PT Field Goal,8.1,Milwaukee Bucks,-30,85,2,2.8,"Carter-Williams, Michael",0.8,10.8
+Stephen Curry,Golden State Warriors,28/12/2015,2015,3975,1610612744,400828355,3,0,3,1,Jump Shot,3PT Field Goal,28.6,Sacramento Kings,-142,223,0,0.8,"Curry, Seth",3.7,0
+Stephen Curry,Golden State Warriors,28/12/2015,2015,3975,1610612744,400828355,2,1,8,1,Jump Shot,3PT Field Goal,29.1,Sacramento Kings,-55,262,2,2.6,"Gay, Rudy",5.1,15.5
+Stephen Curry,Golden State Warriors,28/12/2015,2015,3975,1610612744,400828355,1,9,28,0,Jump Shot,3PT Field Goal,25.2,Sacramento Kings,-61,242,0,0.8,"Rondo, Rajon",6,13.7
+Stephen Curry,Golden State Warriors,28/12/2015,2015,3975,1610612744,400828355,3,10,38,0,Jump Shot,3PT Field Goal,24.4,Sacramento Kings,-169,193,0,5.7,"Rondo, Rajon",3.6,11.1
+Stephen Curry,Golden State Warriors,28/12/2015,2015,3975,1610612744,400828355,3,4,10,0,Jump Shot,3PT Field Goal,22.9,Sacramento Kings,235,28,0,1.3,"Gay, Rudy",4.9,16.2
+Stephen Curry,Golden State Warriors,28/12/2015,2015,3975,1610612744,400828355,1,4,13,0,Jump Shot,3PT Field Goal,24.9,Sacramento Kings,-52,259,6,6.3,"Collison, Darren",3,15.9
+Stephen Curry,Golden State Warriors,28/12/2015,2015,3975,1610612744,400828355,1,11,7,0,Jump Shot,3PT Field Goal,26.9,Sacramento Kings,22,252,1,4.4,"Rondo, Rajon",2.8,9
+Stephen Curry,Golden State Warriors,02/01/2016,2015,3975,1610612744,400828391,2,4,25,0,Jump Shot,3PT Field Goal,24.1,Denver Nuggets,-225,129,0,1.3,"Nelson, Jameer",2.9,24
+Stephen Curry,Golden State Warriors,02/01/2016,2015,3975,1610612744,400828391,2,4,48,1,Jump Shot,3PT Field Goal,26.4,Denver Nuggets,-176,213,0,0.5,"Barton, Will",4.4,7.4
+Stephen Curry,Golden State Warriors,02/01/2016,2015,3975,1610612744,400828391,1,7,28,0,Jump Shot,3PT Field Goal,23.2,Denver Nuggets,230,100,0,0.7,"Nelson, Jameer",2.8,10.6
+Stephen Curry,Golden State Warriors,12/12/2015,2015,3975,1610612744,400828238,1,0,34,1,Jump Shot,2PT Field Goal,19.1,Milwaukee Bucks,168,-21,6,6.2,"Vaughn, Rashad",4.2,17
+Stephen Curry,Golden State Warriors,23/12/2015,2015,3975,1610612744,400828321,3,2,4,0,Jump Shot,3PT Field Goal,23.1,Utah Jazz,-241,11,0,0.6,"Hood, Rodney",6.7,12.4
+Stephen Curry,Golden State Warriors,23/12/2015,2015,3975,1610612744,400828321,1,4,55,0,Jump Shot,3PT Field Goal,22.8,Utah Jazz,-228,38,0,1,"Booker, Trevor",8.1,7.6
+Stephen Curry,Golden State Warriors,23/12/2015,2015,3975,1610612744,400828321,3,8,22,1,Jump Shot,2PT Field Goal,20.8,Utah Jazz,82,188,2,2.8,"Hood, Rodney",6.3,17.5
+Stephen Curry,Golden State Warriors,23/12/2015,2015,3975,1610612744,400828321,2,0,2,0,Jump Shot,3PT Field Goal,24.3,Utah Jazz,158,190,12,14,"Lyles, Trey",4.7,0
+Stephen Curry,Golden State Warriors,23/12/2015,2015,3975,1610612744,400828321,3,4,15,0,Jump Shot,3PT Field Goal,25.8,Utah Jazz,-171,218,12,10,"Favors, Derrick",5.5,12.6
+Stephen Curry,Golden State Warriors,23/12/2015,2015,3975,1610612744,400828321,3,3,46,0,Jump Shot,3PT Field Goal,22.3,Utah Jazz,-233,26,0,0.7,"Burke, Trey",3.8,12.5
+Stephen Curry,Golden State Warriors,23/12/2015,2015,3975,1610612744,400828321,1,9,31,0,Jump Shot,2PT Field Goal,21.2,Utah Jazz,155,129,0,0.8,"Neto, Raul",1.4,16.6
+Stephen Curry,Golden State Warriors,23/12/2015,2015,3975,1610612744,400828321,3,1,9,0,Jump Shot,2PT Field Goal,5.7,Utah Jazz,-9,31,7,6.1,"Burke, Trey",1.9,15.7
+Stephen Curry,Golden State Warriors,12/12/2015,2015,3975,1610612744,400828238,1,5,16,1,Jump Shot,3PT Field Goal,23.4,Milwaukee Bucks,222,-11,3,8.4,"Parker, Jabari",6.6,14.8
+Stephen Curry,Golden State Warriors,12/12/2015,2015,3975,1610612744,400828238,2,1,11,1,Jump Shot,2PT Field Goal,22.5,Milwaukee Bucks,159,62,0,0.7,"Antetokounmpo, Giannis",5.5,17.3
+Stephen Curry,Golden State Warriors,12/12/2015,2015,3975,1610612744,400828238,4,4,44,1,Jump Shot,3PT Field Goal,27.1,Milwaukee Bucks,153,214,0,0.7,"Carter-Williams, Michael",4.4,12.4
+Stephen Curry,Golden State Warriors,12/12/2015,2015,3975,1610612744,400828238,1,7,16,0,Jump Shot,3PT Field Goal,26.5,Milwaukee Bucks,213,139,2,3.3,"Mayo, O.J.",2.8,14.7
+Stephen Curry,Golden State Warriors,12/12/2015,2015,3975,1610612744,400828238,4,3,39,0,Jump Shot,3PT Field Goal,24.6,Milwaukee Bucks,-112,242,0,1.2,"Mayo, O.J.",2.2,15.2
+Stephen Curry,Golden State Warriors,12/12/2015,2015,3975,1610612744,400828238,1,11,7,0,Jump Shot,3PT Field Goal,29.5,Milwaukee Bucks,-74,282,7,6.1,"Monroe, Greg",7.2,18.2
+Stephen Curry,Golden State Warriors,12/12/2015,2015,3975,1610612744,400828238,1,1,21,0,Jump Shot,2PT Field Goal,1.6,Milwaukee Bucks,-34,18,18,12.3,"Carter-Williams, Michael",3.7,11.6
+Stephen Curry,Golden State Warriors,12/12/2015,2015,3975,1610612744,400828238,1,2,45,0,Jump Shot,2PT Field Goal,14.5,Milwaukee Bucks,-7,139,13,10.2,"Carter-Williams, Michael",1.9,14
+Stephen Curry,Golden State Warriors,12/12/2015,2015,3975,1610612744,400828238,3,1,2,0,Jump Shot,2PT Field Goal,21.5,Milwaukee Bucks,-191,3,5,6.5,"Carter-Williams, Michael",3.2,18.2
+Stephen Curry,Golden State Warriors,12/12/2015,2015,3975,1610612744,400828238,4,6,38,0,Jump Shot,3PT Field Goal,25.1,Milwaukee Bucks,60,239,6,5.6,"Antetokounmpo, Giannis",4.2,7
+Stephen Curry,Golden State Warriors,12/12/2015,2015,3975,1610612744,400828238,1,1,15,0,Jump Shot,3PT Field Goal,21.9,Milwaukee Bucks,-237,-11,0,0.7,"Antetokounmpo, Giannis",3,21.1
+Stephen Curry,Golden State Warriors,12/12/2015,2015,3975,1610612744,400828238,3,5,49,0,Jump Shot,3PT Field Goal,24.6,Milwaukee Bucks,86,257,3,4.2,"Monroe, Greg",5.1,21.2
+Stephen Curry,Golden State Warriors,08/01/2016,2015,3975,1610612744,400828435,1,6,56,0,Jump Shot,3PT Field Goal,24.5,Portland Trail Blazers,-135,205,0,1,"Lillard, Damian",3.3,11.1
+Stephen Curry,Golden State Warriors,08/01/2016,2015,3975,1610612744,400828435,3,3,7,1,Jump Shot,3PT Field Goal,27.7,Portland Trail Blazers,12,242,4,5.2,"Leonard, Meyers",5.9,17.5
+Stephen Curry,Golden State Warriors,08/01/2016,2015,3975,1610612744,400828435,3,10,27,0,Jump Shot,3PT Field Goal,25.7,Portland Trail Blazers,-153,203,0,0.9,"Vonleh, Noah",10.9,10.5
+Stephen Curry,Golden State Warriors,08/01/2016,2015,3975,1610612744,400828435,3,2,23,1,Jump Shot,3PT Field Goal,24.9,Portland Trail Blazers,120,213,0,0.7,"Lillard, Damian",3,14.6
+Stephen Curry,Golden State Warriors,08/01/2016,2015,3975,1610612744,400828435,3,0,9,1,Jump Shot,3PT Field Goal,27.6,Portland Trail Blazers,-187,214,13,13.8,"Leonard, Meyers",4.5,7.5
+Stephen Curry,Golden State Warriors,08/01/2016,2015,3975,1610612744,400828435,1,11,0,1,Jump Shot,3PT Field Goal,22.3,Portland Trail Blazers,227,8,0,0.9,"Lillard, Damian",5.5,15.9
+Stephen Curry,Golden State Warriors,08/01/2016,2015,3975,1610612744,400828435,3,4,36,0,Jump Shot,3PT Field Goal,24.5,Portland Trail Blazers,63,237,5,5.8,"Aminu, Al-Farouq",4.3,17.9
+Stephen Curry,Golden State Warriors,08/01/2016,2015,3975,1610612744,400828435,2,0,25,0,Jump Shot,3PT Field Goal,25.3,Portland Trail Blazers,-151,200,8,6.3,"Lillard, Damian",5.2,16.3
+Stephen Curry,Golden State Warriors,08/01/2016,2015,3975,1610612744,400828435,1,8,56,0,Jump Shot,2PT Field Goal,22.1,Portland Trail Blazers,207,3,9,8.6,"Vonleh, Noah",3.8,16.1
+Stephen Curry,Golden State Warriors,08/01/2016,2015,3975,1610612744,400828435,2,6,31,0,Jump Shot,3PT Field Goal,24.8,Portland Trail Blazers,204,134,4,4.2,"Crabbe, Allen",4,20.4
+Stephen Curry,Golden State Warriors,08/01/2016,2015,3975,1610612744,400828435,3,1,34,0,Jump Shot,3PT Field Goal,26.1,Portland Trail Blazers,-191,180,0,0.7,"Harkless, Maurice",5.9,14.9
+Stephen Curry,Golden State Warriors,08/01/2016,2015,3975,1610612744,400828435,1,8,5,0,Jump Shot,3PT Field Goal,21.5,Portland Trail Blazers,227,7,0,0.7,"Lillard, Damian",2.7,11.7
+Stephen Curry,Golden State Warriors,27/10/2015,2015,3975,1610612744,400827890,1,5,50,1,Jump Shot,2PT Field Goal,22.8,New Orleans Pelicans,-117,188,9,9.6,"Perkins, Kendrick",5.5,14
+Stephen Curry,Golden State Warriors,22/11/2015,2015,3975,1610612744,400828087,1,8,25,0,Jump Shot,3PT Field Goal,25,Denver Nuggets,182,175,0,0.7,"Harris, Gary",2.7,14
+Stephen Curry,Golden State Warriors,27/10/2015,2015,3975,1610612744,400827890,1,6,45,1,Jump Shot,3PT Field Goal,25,New Orleans Pelicans,-11,259,4,4.5,"Smith, Ish",3.7,19
+Stephen Curry,Golden State Warriors,27/10/2015,2015,3975,1610612744,400827890,3,3,23,1,Jump Shot,3PT Field Goal,25.2,New Orleans Pelicans,184,170,0,2.2,"Anderson, Ryan",9.4,20.7
+Stephen Curry,Golden State Warriors,27/10/2015,2015,3975,1610612744,400827890,1,5,3,1,Jump Shot,3PT Field Goal,27.7,New Orleans Pelicans,-179,228,3,2.8,"Smith, Ish",4.3,20
+Stephen Curry,Golden State Warriors,24/11/2015,2015,3975,1610612744,400828101,2,0,0,0,Jump Shot,3PT Field Goal,32,Los Angeles Lakers,163,517,1,0.9,"Clarkson, Jordan",8.4,0
+Stephen Curry,Golden State Warriors,22/11/2015,2015,3975,1610612744,400828087,3,2,30,1,Jump Shot,3PT Field Goal,25,Denver Nuggets,225,90,0,0,"Harris, Gary",2.6,20.5
+Stephen Curry,Golden State Warriors,22/11/2015,2015,3975,1610612744,400828087,3,9,15,1,Jump Shot,3PT Field Goal,24.6,Denver Nuggets,30,254,0,1.2,"Harris, Gary",2,7.9
+Stephen Curry,Golden State Warriors,24/11/2015,2015,3975,1610612744,400828101,1,3,19,0,Jump Shot,3PT Field Goal,25.6,Los Angeles Lakers,-184,180,0,0.9,"Clarkson, Jordan",6.7,20.7
+Stephen Curry,Golden State Warriors,02/11/2015,2015,3975,1610612744,400827938,3,5,32,1,Jump Shot,3PT Field Goal,24.2,Memphis Grizzlies,232,95,1,2,"Barnes, Matt",9,17.8
+Stephen Curry,Golden State Warriors,02/11/2015,2015,3975,1610612744,400827938,1,10,36,1,Jump Shot,3PT Field Goal,26.8,Memphis Grizzlies,-210,188,0,0.7,"Conley, Mike",4.5,20.1
+Stephen Curry,Golden State Warriors,02/11/2015,2015,3975,1610612744,400827938,3,4,58,1,Jump Shot,3PT Field Goal,21.4,Memphis Grizzlies,228,-5,1,1.4,"Conley, Mike",2,18.1
+Stephen Curry,Golden State Warriors,30/10/2015,2015,3975,1610612744,400827917,1,6,23,0,Jump Shot,3PT Field Goal,25.1,Houston Rockets,-129,214,0,0.7,"Lawson, Ty",7.3,15.5
+Stephen Curry,Golden State Warriors,04/11/2015,2015,3975,1610612744,400827956,1,11,17,1,Jump Shot,3PT Field Goal,25,Los Angeles Clippers,-43,247,1,1.6,"Griffin, Blake",3.4,21.1
+Stephen Curry,Golden State Warriors,19/11/2015,2015,3975,1610612744,400828064,4,6,31,1,Jump Shot,3PT Field Goal,24.3,Los Angeles Clippers,-125,218,1,1.7,"Griffin, Blake",4.3,10.9
+Stephen Curry,Golden State Warriors,19/11/2015,2015,3975,1610612744,400828064,1,11,8,1,Jump Shot,3PT Field Goal,26,Los Angeles Clippers,-202,178,7,5.7,"Jordan, DeAndre",5.3,15.2
+Stephen Curry,Golden State Warriors,19/11/2015,2015,3975,1610612744,400828064,4,1,47,1,Jump Shot,3PT Field Goal,24.8,Los Angeles Clippers,-47,242,0,1.9,"Crawford, Jamal",6,9.5
+Stephen Curry,Golden State Warriors,19/11/2015,2015,3975,1610612744,400828064,2,7,54,1,Jump Shot,3PT Field Goal,23.4,Los Angeles Clippers,236,21,0,0,"Rivers, Austin",4.5,14.7
+Stephen Curry,Golden State Warriors,19/11/2015,2015,3975,1610612744,400828064,2,6,45,0,Jump Shot,3PT Field Goal,25.7,Los Angeles Clippers,-70,252,9,7.5,"Smith, Josh",7.1,16.1
+Stephen Curry,Golden State Warriors,30/10/2015,2015,3975,1610612744,400827917,2,6,50,0,Jump Shot,3PT Field Goal,22.8,Houston Rockets,-235,-16,1,1.6,"Harden, James",0,3.4
+Stephen Curry,Golden State Warriors,24/11/2015,2015,3975,1610612744,400828101,1,0,46,1,Jump Shot,3PT Field Goal,24.3,Los Angeles Lakers,99,239,0,0.6,"Bass, Brandon",4.2,16.6
+Stephen Curry,Golden State Warriors,31/10/2015,2015,3975,1610612744,400827922,2,3,47,0,Jump Shot,3PT Field Goal,19.8,New Orleans Pelicans,220,20,0,0,"Douglas, Toney",0.2,14.5
+Stephen Curry,Golden State Warriors,31/10/2015,2015,3975,1610612744,400827922,1,6,10,1,Jump Shot,2PT Field Goal,19.5,New Orleans Pelicans,-24,193,0,0.7,"Holiday, Jrue",5,16.1
+Stephen Curry,Golden State Warriors,30/11/2015,2015,3975,1610612744,400828146,4,0,16,0,Jump Shot,2PT Field Goal,23.8,Utah Jazz,120,198,21,18.2,"Favors, Derrick",4.3,6.4
+Stephen Curry,Golden State Warriors,31/10/2015,2015,3975,1610612744,400827922,4,2,11,1,Jump Shot,3PT Field Goal,28.3,New Orleans Pelicans,-106,262,8,6.8,"Babbitt, Luke",4.1,6.4
+Stephen Curry,Golden State Warriors,31/10/2015,2015,3975,1610612744,400827922,3,7,40,1,Jump Shot,3PT Field Goal,26.5,New Orleans Pelicans,-129,231,5,5.2,"Davis, Anthony",6.9,18.1
+Stephen Curry,Golden State Warriors,31/10/2015,2015,3975,1610612744,400827922,1,4,3,1,Jump Shot,3PT Field Goal,27.7,New Orleans Pelicans,126,247,3,4.3,"Douglas, Toney",3.8,19.7
+Stephen Curry,Golden State Warriors,31/10/2015,2015,3975,1610612744,400827922,3,3,49,1,Jump Shot,3PT Field Goal,25.7,New Orleans Pelicans,228,119,0,0.6,"Douglas, Toney",3.8,7.5
+Stephen Curry,Golden State Warriors,06/11/2015,2015,3975,1610612744,400827970,1,1,54,0,Jump Shot,2PT Field Goal,13.5,Denver Nuggets,87,134,5,4.9,"Miller, Mike",4.8,18.4
+Stephen Curry,Golden State Warriors,09/11/2015,2015,3975,1610612744,400827991,3,4,37,0,Jump Shot,3PT Field Goal,24.6,Detroit Pistons,192,160,0,1.6,"Caldwell-Pope, Kentavious",3.7,6.1
+Stephen Curry,Golden State Warriors,30/11/2015,2015,3975,1610612744,400828146,1,11,12,1,Jump Shot,3PT Field Goal,26,Utah Jazz,212,149,0,0.8,"Neto, Raul",7.6,12.5
+Stephen Curry,Golden State Warriors,30/11/2015,2015,3975,1610612744,400828146,1,9,10,1,Jump Shot,2PT Field Goal,17.1,Utah Jazz,156,46,9,6.7,"Hood, Rodney",3.4,17.2
+Stephen Curry,Golden State Warriors,06/11/2015,2015,3975,1610612744,400827970,1,2,54,1,Jump Shot,3PT Field Goal,24.4,Denver Nuggets,-81,252,1,1.7,"Foye, Randy",7.4,6.6
+Stephen Curry,Golden State Warriors,06/11/2015,2015,3975,1610612744,400827970,1,1,16,0,Jump Shot,3PT Field Goal,22.5,Denver Nuggets,233,-1,0,1,"Miller, Mike",7,22.8
+Stephen Curry,Golden State Warriors,14/11/2015,2015,3975,1610612744,400828031,4,6,28,0,Jump Shot,3PT Field Goal,25.7,Brooklyn Nets,141,200,0,0.8,"Ellington, Wayne",5.4,9
+Stephen Curry,Golden State Warriors,14/11/2015,2015,3975,1610612744,400828031,3,0,30,0,Jump Shot,3PT Field Goal,26.7,Brooklyn Nets,91,242,6,10.6,"Jack, Jarrett",8.9,22
+Stephen Curry,Golden State Warriors,14/11/2015,2015,3975,1610612744,400828031,1,0,30,0,Jump Shot,3PT Field Goal,28.5,Brooklyn Nets,127,219,6,6.5,"Bargnani, Andrea",4.7,18
+Stephen Curry,Golden State Warriors,14/11/2015,2015,3975,1610612744,400828031,2,0,37,1,Jump Shot,2PT Field Goal,17.7,Brooklyn Nets,-133,121,6,5.1,"Jack, Jarrett",3.6,18.1
+Stephen Curry,Golden State Warriors,02/12/2015,2015,3975,1610612744,400828155,3,3,59,1,Jump Shot,3PT Field Goal,23.6,Charlotte Hornets,-235,16,0,1.3,"Walker, Kemba",17.1,22.3
+Stephen Curry,Golden State Warriors,12/11/2015,2015,3975,1610612744,400828012,1,0,12,1,Jump Shot,3PT Field Goal,0,Minnesota Timberwolves,91,224,0,0,,0,0
+Stephen Curry,Golden State Warriors,12/11/2015,2015,3975,1610612744,400828012,3,2,1,0,Jump Shot,3PT Field Goal,0,Minnesota Timberwolves,-58,247,0,0,,0,0
+Stephen Curry,Golden State Warriors,20/11/2015,2015,3975,1610612744,400828074,1,5,48,0,Jump Shot,3PT Field Goal,25.5,Chicago Bulls,163,218,0,1.2,"Mirotic, Nikola",7.9,14.7
+Stephen Curry,Golden State Warriors,20/11/2015,2015,3975,1610612744,400828074,4,4,28,0,Jump Shot,3PT Field Goal,17.7,Chicago Bulls,-65,252,7,8.7,"Mirotic, Nikola",4.2,22.2
+Stephen Curry,Golden State Warriors,20/11/2015,2015,3975,1610612744,400828074,1,3,12,1,Jump Shot,3PT Field Goal,19.4,Chicago Bulls,79,249,0,0,"Snell, Tony",15.5,14
+Stephen Curry,Golden State Warriors,20/11/2015,2015,3975,1610612744,400828074,4,5,26,1,Jump Shot,3PT Field Goal,24.6,Chicago Bulls,-29,252,0,1.1,"Butler, Jimmy",7.9,21
+Stephen Curry,Golden State Warriors,20/11/2015,2015,3975,1610612744,400828074,3,0,50,1,Jump Shot,2PT Field Goal,20,Chicago Bulls,87,164,9,9.2,"Noah, Joakim",8.4,14.3
+Stephen Curry,Golden State Warriors,11/11/2015,2015,3975,1610612744,400828007,1,3,42,0,Jump Shot,3PT Field Goal,28.8,Memphis Grizzlies,-142,228,4,4,"Conley, Mike",5.4,5
+Stephen Curry,Golden State Warriors,11/11/2015,2015,3975,1610612744,400828007,4,5,32,0,Jump Shot,3PT Field Goal,23.1,Memphis Grizzlies,-228,-15,0,1,"Conley, Mike",5,10.8
+Stephen Curry,Golden State Warriors,02/12/2015,2015,3975,1610612744,400828155,1,4,57,0,Jump Shot,3PT Field Goal,28.8,Charlotte Hornets,104,291,6,5.2,"Zeller, Cody",4.6,18.4
+Stephen Curry,Golden State Warriors,02/12/2015,2015,3975,1610612744,400828155,1,0,37,0,Jump Shot,3PT Field Goal,24.6,Charlotte Hornets,12,252,10,10.7,"Walker, Kemba",1.9,13.3
+Stephen Curry,Golden State Warriors,02/12/2015,2015,3975,1610612744,400828155,3,5,56,0,Jump Shot,2PT Field Goal,16.3,Charlotte Hornets,-29,129,2,1.7,"Walker, Kemba",2.8,6.7
+Stephen Curry,Golden State Warriors,07/11/2015,2015,3975,1610612744,400827979,3,5,31,0,Jump Shot,3PT Field Goal,23.6,Sacramento Kings,227,46,0,0.9,"Anderson, James",6.3,18.4
+Stephen Curry,Golden State Warriors,07/11/2015,2015,3975,1610612744,400827979,4,0,42,1,Jump Shot,3PT Field Goal,23,Sacramento Kings,-235,21,0,1,"Koufos, Kosta",10.5,2.8
+Stephen Curry,Golden State Warriors,07/11/2015,2015,3975,1610612744,400827979,3,9,37,1,Jump Shot,2PT Field Goal,23.1,Sacramento Kings,-176,136,0,0.7,"Rondo, Rajon",4.4,14.1
+Stephen Curry,Golden State Warriors,17/11/2015,2015,3975,1610612744,400828051,4,0,25,0,Jump Shot,2PT Field Goal,2.8,Toronto Raptors,43,36,12,10.4,"Joseph, Cory",2.8,11.9
+Stephen Curry,Golden State Warriors,02/12/2015,2015,3975,1610612744,400828155,3,1,53,1,Jump Shot,3PT Field Goal,24.5,Charlotte Hornets,-63,242,0,0.6,"Walker, Kemba",2.2,11.9
+Stephen Curry,Golden State Warriors,02/12/2015,2015,3975,1610612744,400828155,3,0,33,1,Jump Shot,3PT Field Goal,26.3,Charlotte Hornets,-101,267,0,0.7,"Walker, Kemba",5.7,16
+Stephen Curry,Golden State Warriors,02/12/2015,2015,3975,1610612744,400828155,2,2,18,1,Jump Shot,3PT Field Goal,23.1,Charlotte Hornets,232,18,0,0.8,"Walker, Kemba",4.4,15.8
+Stephen Curry,Golden State Warriors,17/11/2015,2015,3975,1610612744,400828051,1,1,52,0,Jump Shot,3PT Field Goal,23.1,Toronto Raptors,-233,11,0,1.2,"Lowry, Kyle",11.4,10
+Stephen Curry,Golden State Warriors,17/11/2015,2015,3975,1610612744,400828051,1,2,54,0,Jump Shot,2PT Field Goal,4.9,Toronto Raptors,-20,26,2,3,"Biyombo, Bismack",2.5,12.6
+Stephen Curry,Golden State Warriors,27/11/2015,2015,3975,1610612744,400828123,1,3,53,1,Jump Shot,3PT Field Goal,24.3,Phoenix Suns,204,149,0,0.9,"Price, Ronnie",2.1,14.2
+Stephen Curry,Golden State Warriors,27/11/2015,2015,3975,1610612744,400828123,2,0,0,0,Jump Shot,3PT Field Goal,28.7,Phoenix Suns,48,249,5,5,"Bledsoe, Eric",3.7,0
+Stephen Curry,Golden State Warriors,27/11/2015,2015,3975,1610612744,400828123,1,10,27,1,Jump Shot,3PT Field Goal,23.2,Phoenix Suns,-235,7,0,1,"Tucker, PJ",6.3,22.7
+Stephen Curry,Golden State Warriors,27/11/2015,2015,3975,1610612744,400828123,3,5,31,1,Jump Shot,3PT Field Goal,23.9,Phoenix Suns,217,110,0,1,"Warren, TJ",6.6,22.2
+Stephen Curry,Golden State Warriors,27/11/2015,2015,3975,1610612744,400828123,1,0,34,1,Jump Shot,3PT Field Goal,25.1,Phoenix Suns,182,170,7,7.2,"Price, Ronnie",5.9,16.8
+Stephen Curry,Golden State Warriors,27/11/2015,2015,3975,1610612744,400828123,2,6,7,1,Jump Shot,3PT Field Goal,24.9,Phoenix Suns,-138,213,1,1.8,"Bledsoe, Eric",3.5,15.7
+Stephen Curry,Golden State Warriors,27/11/2015,2015,3975,1610612744,400828123,3,0,0,0,Jump Shot,3PT Field Goal,41.7,Phoenix Suns,-212,382,4,2.8,"Price, Ronnie",6,0
+Stephen Curry,Golden State Warriors,27/10/2015,2015,3975,1610612744,400827890,1,9,13,1,Jump Shot,3PT Field Goal,28.3,New Orleans Pelicans,-197,193,5,4.5,"Robinson, Nate",6.2,19.8
+Stephen Curry,Golden State Warriors,27/10/2015,2015,3975,1610612744,400827890,1,0,1,0,Jump Shot,3PT Field Goal,37.7,New Orleans Pelicans,-186,345,2,3.3,"Smith, Ish",3.8,0
+Stephen Curry,Golden State Warriors,27/10/2015,2015,3975,1610612744,400827890,1,3,6,0,Jump Shot,3PT Field Goal,25.8,New Orleans Pelicans,-156,232,0,0.8,"Ajinca, Alexis",10.1,10.7
+Stephen Curry,Golden State Warriors,27/10/2015,2015,3975,1610612744,400827890,3,7,14,0,Jump Shot,2PT Field Goal,3.8,New Orleans Pelicans,42,61,0,2.7,"Smith, Ish",0.8,14.9
+Stephen Curry,Golden State Warriors,27/10/2015,2015,3975,1610612744,400827890,2,6,3,0,Jump Shot,3PT Field Goal,23.9,New Orleans Pelicans,164,185,0,1.4,"Robinson, Nate",2.2,10.2
+Stephen Curry,Golden State Warriors,27/10/2015,2015,3975,1610612744,400827890,3,5,19,0,Jump Shot,3PT Field Goal,25.2,New Orleans Pelicans,161,203,8,7.1,"Anderson, Ryan",5.9,6.7
+Stephen Curry,Golden State Warriors,27/10/2015,2015,3975,1610612744,400827890,2,2,11,0,Jump Shot,3PT Field Goal,23.9,New Orleans Pelicans,166,174,0,0.6,"Smith, Ish",5.9,9.8
+Stephen Curry,Golden State Warriors,27/10/2015,2015,3975,1610612744,400827890,3,5,13,0,Jump Shot,2PT Field Goal,5.7,New Orleans Pelicans,20,23,0,0.4,"Gordon, Eric",5.4,21
+Stephen Curry,Golden State Warriors,27/10/2015,2015,3975,1610612744,400827890,1,10,29,0,Jump Shot,3PT Field Goal,27.1,New Orleans Pelicans,-176,195,3,3.5,"Davis, Anthony",5.1,18.3
+Stephen Curry,Golden State Warriors,22/11/2015,2015,3975,1610612744,400828087,1,2,0,0,Jump Shot,2PT Field Goal,15.7,Denver Nuggets,177,2,0,1.6,"Harris, Gary",2.6,14
+Stephen Curry,Golden State Warriors,22/11/2015,2015,3975,1610612744,400828087,2,2,26,0,Jump Shot,3PT Field Goal,27.2,Denver Nuggets,164,213,0,0.7,"Gallinari, Danilo",5.3,4.1
+Stephen Curry,Golden State Warriors,22/11/2015,2015,3975,1610612744,400828087,1,3,35,0,Jump Shot,3PT Field Goal,21.8,Denver Nuggets,169,205,0,0,"Arthur, Darrell",3.3,9.2
+Stephen Curry,Golden State Warriors,22/11/2015,2015,3975,1610612744,400828087,3,10,27,0,Jump Shot,3PT Field Goal,25.5,Denver Nuggets,32,249,2,2.8,"Harris, Gary",4.1,15.5
+Stephen Curry,Golden State Warriors,28/11/2015,2015,3975,1610612744,400828132,1,0,57,1,Jump Shot,3PT Field Goal,26.6,Sacramento Kings,82,242,0,0.7,"Collison, Darren",4.7,18.7
+Stephen Curry,Golden State Warriors,24/11/2015,2015,3975,1610612744,400828101,3,5,50,0,Jump Shot,3PT Field Goal,26.6,Los Angeles Lakers,-76,252,0,2,"Bryant, Kobe",7.1,10.5
+Stephen Curry,Golden State Warriors,02/11/2015,2015,3975,1610612744,400827938,1,6,14,0,Jump Shot,3PT Field Goal,26,Memphis Grizzlies,-202,183,0,0.8,"Lee, Courtney",5.6,18.7
+Stephen Curry,Golden State Warriors,02/11/2015,2015,3975,1610612744,400827938,2,2,48,0,Jump Shot,3PT Field Goal,27,Memphis Grizzlies,163,203,0,2.5,"Allen, Tony",8.1,13
+Stephen Curry,Golden State Warriors,02/11/2015,2015,3975,1610612744,400827938,1,8,5,0,Jump Shot,3PT Field Goal,24.5,Memphis Grizzlies,-20,247,6,5.7,"Conley, Mike",1.2,18.2
+Stephen Curry,Golden State Warriors,02/11/2015,2015,3975,1610612744,400827938,1,0,6,0,Jump Shot,2PT Field Goal,5.2,Memphis Grizzlies,28,21,1,1.3,"Wright, Brandan",0.2,1.8
+Stephen Curry,Golden State Warriors,02/11/2015,2015,3975,1610612744,400827938,1,0,59,0,Jump Shot,3PT Field Goal,25.6,Memphis Grizzlies,69,237,9,6.6,"Udrih, Beno",4.9,15.9
+Stephen Curry,Golden State Warriors,04/11/2015,2015,3975,1610612744,400827956,4,4,56,1,Jump Shot,3PT Field Goal,25.2,Los Angeles Clippers,101,249,0,3.1,"Jordan, DeAndre",4.8,16.6
+Stephen Curry,Golden State Warriors,04/11/2015,2015,3975,1610612744,400827956,2,9,42,1,Jump Shot,3PT Field Goal,26.6,Los Angeles Clippers,-151,223,8,7.8,"Rivers, Austin",9.5,16.3
+Stephen Curry,Golden State Warriors,04/11/2015,2015,3975,1610612744,400827956,4,2,36,1,Jump Shot,2PT Field Goal,24.4,Los Angeles Clippers,-194,111,0,0,"Jordan, DeAndre",7.1,24
+Stephen Curry,Golden State Warriors,04/11/2015,2015,3975,1610612744,400827956,2,7,56,1,Jump Shot,3PT Field Goal,31.1,Los Angeles Clippers,-122,264,0,0,"Redick, JJ",10,24
+Stephen Curry,Golden State Warriors,04/11/2015,2015,3975,1610612744,400827956,2,6,57,0,Jump Shot,2PT Field Goal,13.7,Los Angeles Clippers,101,154,0,1.3,"Redick, JJ",3.7,12.9
+Stephen Curry,Golden State Warriors,04/11/2015,2015,3975,1610612744,400827956,3,10,39,0,Jump Shot,2PT Field Goal,15.1,Los Angeles Clippers,53,154,4,3.5,"Paul, Chris",1.7,20.3
+Stephen Curry,Golden State Warriors,04/11/2015,2015,3975,1610612744,400827956,3,3,0,0,Jump Shot,2PT Field Goal,11,Los Angeles Clippers,-4,85,1,4.1,"Rivers, Austin",2.9,8.5
+Stephen Curry,Golden State Warriors,04/11/2015,2015,3975,1610612744,400827956,3,3,38,0,Jump Shot,3PT Field Goal,24.9,Los Angeles Clippers,-56,247,1,1.8,"Rivers, Austin",3.6,12
+Stephen Curry,Golden State Warriors,04/11/2015,2015,3975,1610612744,400827956,3,2,35,0,Jump Shot,3PT Field Goal,24.7,Los Angeles Clippers,163,203,0,0.8,"Stephenson, Lance",6.4,12.3
+Stephen Curry,Golden State Warriors,04/11/2015,2015,3975,1610612744,400827956,3,7,49,0,Jump Shot,3PT Field Goal,27.9,Los Angeles Clippers,128,272,9,7.6,"Griffin, Blake",5.3,16.3
+Stephen Curry,Golden State Warriors,19/11/2015,2015,3975,1610612744,400828064,3,10,18,0,Jump Shot,3PT Field Goal,34.6,Los Angeles Clippers,-156,213,0,0,"Pierce, Paul",14.5,23.4
+Stephen Curry,Golden State Warriors,19/11/2015,2015,3975,1610612744,400828064,2,0,6,1,Jump Shot,3PT Field Goal,25.2,Los Angeles Clippers,-148,232,22,18.8,"Griffin, Blake",3.3,5.2
+Stephen Curry,Golden State Warriors,19/11/2015,2015,3975,1610612744,400828064,4,5,33,1,Jump Shot,3PT Field Goal,17.1,Los Angeles Clippers,176,178,0,0,"Paul, Chris",1.9,8.1
+Stephen Curry,Golden State Warriors,19/11/2015,2015,3975,1610612744,400828064,3,7,19,1,Jump Shot,2PT Field Goal,21,Los Angeles Clippers,109,178,0,0.9,"Griffin, Blake",6.9,10.9
+Stephen Curry,Golden State Warriors,19/11/2015,2015,3975,1610612744,400828064,3,4,26,1,Jump Shot,2PT Field Goal,6.6,Los Angeles Clippers,15,41,1,2.4,"Rivers, Austin",1,13.1
+Stephen Curry,Golden State Warriors,19/11/2015,2015,3975,1610612744,400828064,3,6,28,0,Jump Shot,3PT Field Goal,24,Los Angeles Clippers,-120,232,13,10.5,"Rivers, Austin",4.4,12.9
+Stephen Curry,Golden State Warriors,19/11/2015,2015,3975,1610612744,400828064,1,10,39,0,Jump Shot,3PT Field Goal,27.5,Los Angeles Clippers,-58,272,2,3,"Crawford, Jamal",0.2,6.8
+Stephen Curry,Golden State Warriors,19/11/2015,2015,3975,1610612744,400828064,2,9,3,0,Jump Shot,2PT Field Goal,5.8,Los Angeles Clippers,32,23,9,6.7,"Jordan, DeAndre",5.4,9.5
+Stephen Curry,Golden State Warriors,19/11/2015,2015,3975,1610612744,400828064,4,2,3,0,Jump Shot,3PT Field Goal,24.7,Los Angeles Clippers,145,213,14,12.5,"Griffin, Blake",4.6,11.7
+Stephen Curry,Golden State Warriors,19/11/2015,2015,3975,1610612744,400828064,3,1,1,0,Jump Shot,3PT Field Goal,26.4,Los Angeles Clippers,71,237,11,9,"Smith, Josh",6.2,24
+Stephen Curry,Golden State Warriors,19/11/2015,2015,3975,1610612744,400828064,3,0,29,0,Jump Shot,2PT Field Goal,19.4,Los Angeles Clippers,87,134,3,4,"Johnson, Wesley",3.9,1.6
+Stephen Curry,Golden State Warriors,19/11/2015,2015,3975,1610612744,400828064,3,3,32,0,Jump Shot,3PT Field Goal,28.7,Los Angeles Clippers,48,259,8,8.2,"Rivers, Austin",3.4,14.3
+Stephen Curry,Golden State Warriors,19/11/2015,2015,3975,1610612744,400828064,2,10,1,0,Jump Shot,3PT Field Goal,24.8,Los Angeles Clippers,163,214,14,9.2,"Smith, Josh",5.4,15.6
+Stephen Curry,Golden State Warriors,30/10/2015,2015,3975,1610612744,400827917,2,4,5,1,Jump Shot,3PT Field Goal,23.5,Houston Rockets,-240,100,0,0.9,"Ariza, Trevor",3.7,18.2
+Stephen Curry,Golden State Warriors,30/10/2015,2015,3975,1610612744,400827917,1,8,56,1,Jump Shot,3PT Field Goal,24.1,Houston Rockets,228,87,0,1.2,"Ariza, Trevor",10.8,14.7
+Stephen Curry,Golden State Warriors,30/10/2015,2015,3975,1610612744,400827917,1,3,5,0,Jump Shot,3PT Field Goal,23.9,Houston Rockets,222,106,0,1.6,"Beverley, Patrick",2.6,19.7
+Stephen Curry,Golden State Warriors,24/11/2015,2015,3975,1610612744,400828101,2,2,53,1,Jump Shot,2PT Field Goal,15,Los Angeles Lakers,24,164,2,2.8,"Clarkson, Jordan",2.4,12.1
+Stephen Curry,Golden State Warriors,24/11/2015,2015,3975,1610612744,400828101,1,0,13,0,Jump Shot,3PT Field Goal,25.1,Los Angeles Lakers,115,228,0,0.7,"Clarkson, Jordan",4.6,6.8
+Stephen Curry,Golden State Warriors,24/11/2015,2015,3975,1610612744,400828101,1,5,35,0,Jump Shot,3PT Field Goal,24.8,Los Angeles Lakers,4,267,0,0,"Clarkson, Jordan",3.8,17
+Stephen Curry,Golden State Warriors,24/11/2015,2015,3975,1610612744,400828101,3,1,48,0,Jump Shot,3PT Field Goal,25.7,Los Angeles Lakers,-148,229,0,0.7,"Russell, D'Angelo",6.2,17.9
+Stephen Curry,Golden State Warriors,24/11/2015,2015,3975,1610612744,400828101,1,1,7,0,Jump Shot,2PT Field Goal,18.5,Los Angeles Lakers,115,144,9,8.5,"Clarkson, Jordan",6,23.1
+Stephen Curry,Golden State Warriors,24/11/2015,2015,3975,1610612744,400828101,3,8,17,0,Jump Shot,3PT Field Goal,25,Los Angeles Lakers,-169,203,0,0.8,"Clarkson, Jordan",4.7,9.6
+Stephen Curry,Golden State Warriors,31/10/2015,2015,3975,1610612744,400827922,3,0,39,1,Jump Shot,3PT Field Goal,27.1,New Orleans Pelicans,215,164,4,6,"Gee, Alonzo",3.1,18.2
+Stephen Curry,Golden State Warriors,31/10/2015,2015,3975,1610612744,400827922,3,9,12,1,Jump Shot,3PT Field Goal,27.4,New Orleans Pelicans,-136,238,12,10.2,"Davis, Anthony",5.6,3.7
+Stephen Curry,Golden State Warriors,31/10/2015,2015,3975,1610612744,400827922,1,6,30,0,Jump Shot,3PT Field Goal,27.8,New Orleans Pelicans,20,277,4,4.8,"Smith, Ish",7.5,18.8
+Stephen Curry,Golden State Warriors,31/10/2015,2015,3975,1610612744,400827922,3,6,30,1,Jump Shot,2PT Field Goal,14.7,New Orleans Pelicans,137,51,9,6.5,"Davis, Anthony",4.8,16.3
+Stephen Curry,Golden State Warriors,31/10/2015,2015,3975,1610612744,400827922,1,7,42,1,Jump Shot,3PT Field Goal,31,New Orleans Pelicans,202,236,0,4.5,"Davis, Anthony",6.8,16
+Stephen Curry,Golden State Warriors,31/10/2015,2015,3975,1610612744,400827922,3,8,5,1,Jump Shot,3PT Field Goal,27.8,New Orleans Pelicans,-241,140,11,8.8,"Babbitt, Luke",0.5,9.7
+Stephen Curry,Golden State Warriors,31/10/2015,2015,3975,1610612744,400827922,3,9,53,0,Jump Shot,3PT Field Goal,27,New Orleans Pelicans,-66,262,4,3.4,"Holiday, Jrue",4.7,19.1
+Stephen Curry,Golden State Warriors,31/10/2015,2015,3975,1610612744,400827922,1,2,5,0,Jump Shot,3PT Field Goal,27.5,New Orleans Pelicans,96,258,6,5.1,"Smith, Ish",3.4,16.2
+Stephen Curry,Golden State Warriors,31/10/2015,2015,3975,1610612744,400827922,4,1,0,0,Jump Shot,3PT Field Goal,19,New Orleans Pelicans,220,26,1,2.5,"Babbitt, Luke",0,18.3
+Stephen Curry,Golden State Warriors,31/10/2015,2015,3975,1610612744,400827922,4,0,34,0,Jump Shot,2PT Field Goal,7.7,New Orleans Pelicans,-70,33,10,7.3,"Davis, Anthony",1.6,8.9
+Stephen Curry,Golden State Warriors,31/10/2015,2015,3975,1610612744,400827922,3,0,9,0,Jump Shot,3PT Field Goal,26,New Orleans Pelicans,53,254,20,17.4,"Douglas, Toney",0.7,6.6
+Stephen Curry,Golden State Warriors,31/10/2015,2015,3975,1610612744,400827922,3,6,15,0,Jump Shot,2PT Field Goal,19,New Orleans Pelicans,-17,189,7,4.5,"Holiday, Jrue",2.4,17.9
+Stephen Curry,Golden State Warriors,31/10/2015,2015,3975,1610612744,400827922,4,5,44,0,Jump Shot,2PT Field Goal,16.7,New Orleans Pelicans,-18,166,5,4.9,"Gee, Alonzo",2.7,20.5
+Stephen Curry,Golden State Warriors,09/11/2015,2015,3975,1610612744,400827991,3,1,4,0,Jump Shot,2PT Field Goal,20.1,Detroit Pistons,117,149,1,1.1,"Caldwell-Pope, Kentavious",2.2,7.3
+Stephen Curry,Golden State Warriors,09/11/2015,2015,3975,1610612744,400827991,3,10,9,0,Jump Shot,3PT Field Goal,21.9,Detroit Pistons,-228,2,0,0.8,"Jackson, Reggie",3.7,14.1
+Stephen Curry,Golden State Warriors,30/11/2015,2015,3975,1610612744,400828146,4,6,20,1,Jump Shot,3PT Field Goal,26.1,Utah Jazz,119,208,5,4.3,"Burks, Alec",5,19.8
+Stephen Curry,Golden State Warriors,30/11/2015,2015,3975,1610612744,400828146,1,2,0,0,Jump Shot,2PT Field Goal,2.6,Utah Jazz,38,0,0,1.3,"Burke, Trey",0.7,11.6
+Stephen Curry,Golden State Warriors,30/11/2015,2015,3975,1610612744,400828146,3,2,34,1,Jump Shot,3PT Field Goal,25.4,Utah Jazz,-173,178,0,0.8,"Ingles, Joe",4.6,12.6
+Stephen Curry,Golden State Warriors,30/11/2015,2015,3975,1610612744,400828146,1,7,27,0,Jump Shot,3PT Field Goal,24.8,Utah Jazz,164,175,8,5.4,"Neto, Raul",3.3,18.4
+Stephen Curry,Golden State Warriors,30/11/2015,2015,3975,1610612744,400828146,4,2,24,0,Jump Shot,3PT Field Goal,25.9,Utah Jazz,-20,254,9,6.2,"Gobert, Rudy",6.2,17.4
+Stephen Curry,Golden State Warriors,30/11/2015,2015,3975,1610612744,400828146,2,1,24,0,Jump Shot,3PT Field Goal,27.9,Utah Jazz,-47,257,3,2.4,"Burks, Alec",6.2,16.8
+Stephen Curry,Golden State Warriors,30/11/2015,2015,3975,1610612744,400828146,3,4,21,0,Jump Shot,3PT Field Goal,27.1,Utah Jazz,-204,156,0,0.6,"Booker, Trevor",5.6,12.4
+Stephen Curry,Golden State Warriors,06/11/2015,2015,3975,1610612744,400827970,1,4,8,1,Jump Shot,3PT Field Goal,28.8,Denver Nuggets,-196,183,1,1.6,"Gallinari, Danilo",5,19
+Stephen Curry,Golden State Warriors,14/11/2015,2015,3975,1610612744,400828031,1,10,3,0,Jump Shot,3PT Field Goal,21.8,Brooklyn Nets,227,8,0,0.8,"Jack, Jarrett",6.2,15.2
+Stephen Curry,Golden State Warriors,06/11/2015,2015,3975,1610612744,400827970,1,0,0,0,Jump Shot,3PT Field Goal,46.9,Denver Nuggets,-212,439,0,0.5,"Harris, Gary",3.4,0
+Stephen Curry,Golden State Warriors,06/11/2015,2015,3975,1610612744,400827970,1,8,17,0,Jump Shot,3PT Field Goal,26.2,Denver Nuggets,195,159,0,1.5,"Mudiay, Emmanuel",6.9,24
+Stephen Curry,Golden State Warriors,06/11/2015,2015,3975,1610612744,400827970,1,5,12,0,Jump Shot,3PT Field Goal,23.9,Denver Nuggets,213,149,0,0.6,"Harris, Gary",5.5,15.6
+Stephen Curry,Golden State Warriors,06/11/2015,2015,3975,1610612744,400827970,3,6,3,0,Jump Shot,3PT Field Goal,24.1,Denver Nuggets,236,8,0,0.7,"Mudiay, Emmanuel",4.8,10.9
+Stephen Curry,Golden State Warriors,06/11/2015,2015,3975,1610612744,400827970,3,10,43,0,Jump Shot,3PT Field Goal,27.1,Denver Nuggets,-66,262,4,3.7,"Mudiay, Emmanuel",4.8,20.5
+Stephen Curry,Golden State Warriors,14/11/2015,2015,3975,1610612744,400828031,1,10,51,0,Jump Shot,3PT Field Goal,23.4,Brooklyn Nets,-223,134,1,2.4,"Johnson, Joe",7,7.1
+Stephen Curry,Golden State Warriors,12/11/2015,2015,3975,1610612744,400828012,4,2,54,0,Jump Shot,3PT Field Goal,0,Minnesota Timberwolves,-174,213,0,0,,0,0
+Stephen Curry,Golden State Warriors,12/11/2015,2015,3975,1610612744,400828012,1,2,13,0,Jump Shot,3PT Field Goal,0,Minnesota Timberwolves,230,26,0,0,,0,0
+Stephen Curry,Golden State Warriors,12/11/2015,2015,3975,1610612744,400828012,4,0,29,1,Jump Shot,3PT Field Goal,0,Minnesota Timberwolves,51,257,0,0,,0,0
+Stephen Curry,Golden State Warriors,12/11/2015,2015,3975,1610612744,400828012,3,5,17,1,Jump Shot,2PT Field Goal,0,Minnesota Timberwolves,86,139,0,0,,0,0
+Stephen Curry,Golden State Warriors,12/11/2015,2015,3975,1610612744,400828012,4,4,58,0,Jump Shot,3PT Field Goal,0,Minnesota Timberwolves,151,213,0,0,,0,0
+Stephen Curry,Golden State Warriors,12/11/2015,2015,3975,1610612744,400828012,3,2,39,1,Jump Shot,3PT Field Goal,0,Minnesota Timberwolves,192,159,0,0,,0,0
+Stephen Curry,Golden State Warriors,12/11/2015,2015,3975,1610612744,400828012,3,3,6,1,Jump Shot,3PT Field Goal,0,Minnesota Timberwolves,112,232,0,0,,0,0
+Stephen Curry,Golden State Warriors,12/11/2015,2015,3975,1610612744,400828012,4,5,23,1,Jump Shot,2PT Field Goal,0,Minnesota Timberwolves,123,121,0,0,,0,0
+Stephen Curry,Golden State Warriors,12/11/2015,2015,3975,1610612744,400828012,1,10,54,1,Jump Shot,3PT Field Goal,0,Minnesota Timberwolves,-145,234,0,0,,0,0
+Stephen Curry,Golden State Warriors,12/11/2015,2015,3975,1610612744,400828012,4,5,51,1,Jump Shot,3PT Field Goal,0,Minnesota Timberwolves,76,252,0,0,,0,0
+Stephen Curry,Golden State Warriors,12/11/2015,2015,3975,1610612744,400828012,1,6,51,1,Jump Shot,3PT Field Goal,0,Minnesota Timberwolves,-240,16,0,0,,0,0
+Stephen Curry,Golden State Warriors,12/11/2015,2015,3975,1610612744,400828012,1,9,48,1,Jump Shot,3PT Field Goal,0,Minnesota Timberwolves,-235,75,0,0,,0,0
+Stephen Curry,Golden State Warriors,12/11/2015,2015,3975,1610612744,400828012,3,8,33,0,Jump Shot,2PT Field Goal,0,Minnesota Timberwolves,-214,11,0,0,,0,0
+Stephen Curry,Golden State Warriors,12/11/2015,2015,3975,1610612744,400828012,2,4,13,0,Jump Shot,3PT Field Goal,0,Minnesota Timberwolves,-153,224,0,0,,0,0
+Stephen Curry,Golden State Warriors,20/11/2015,2015,3975,1610612744,400828074,2,2,30,0,Jump Shot,3PT Field Goal,25.5,Chicago Bulls,114,223,0,0.8,"Hinrich, Kirk",2.9,18.1
+Stephen Curry,Golden State Warriors,20/11/2015,2015,3975,1610612744,400828074,1,7,1,0,Jump Shot,3PT Field Goal,18.6,Chicago Bulls,228,116,0,0,"Snell, Tony",5.2,16
+Stephen Curry,Golden State Warriors,20/11/2015,2015,3975,1610612744,400828074,1,0,36,0,Jump Shot,3PT Field Goal,24,Chicago Bulls,150,219,2,1.6,"Moore, E'Twaun",0.1,19.9
+Stephen Curry,Golden State Warriors,20/11/2015,2015,3975,1610612744,400828074,1,8,34,0,Jump Shot,2PT Field Goal,0.4,Chicago Bulls,-24,21,6,6.3,"Hinrich, Kirk",3.1,18
+Stephen Curry,Golden State Warriors,20/11/2015,2015,3975,1610612744,400828074,3,3,13,0,Jump Shot,3PT Field Goal,24.2,Chicago Bulls,-219,134,0,0.9,"McDermott, Doug",7.1,19.1
+Stephen Curry,Golden State Warriors,20/11/2015,2015,3975,1610612744,400828074,3,0,4,0,Jump Shot,2PT Field Goal,12.9,Chicago Bulls,-129,87,15,13.3,"Moore, E'Twaun",2.4,5.9
+Stephen Curry,Golden State Warriors,11/11/2015,2015,3975,1610612744,400828007,1,8,34,1,Jump Shot,3PT Field Goal,23,Memphis Grizzlies,-235,33,0,0.5,"Conley, Mike",3.5,5
+Stephen Curry,Golden State Warriors,11/11/2015,2015,3975,1610612744,400828007,3,7,8,0,Jump Shot,3PT Field Goal,25,Memphis Grizzlies,-107,232,12,10,"Lee, Courtney",3.8,14.2
+Stephen Curry,Golden State Warriors,11/11/2015,2015,3975,1610612744,400828007,2,3,52,0,Jump Shot,3PT Field Goal,24.6,Memphis Grizzlies,110,232,0,0.7,"Lee, Courtney",3.7,12.9
+Stephen Curry,Golden State Warriors,11/11/2015,2015,3975,1610612744,400828007,2,0,4,0,Jump Shot,3PT Field Goal,27.8,Memphis Grizzlies,46,264,24,19.9,"Allen, Tony",4.9,0
+Stephen Curry,Golden State Warriors,11/11/2015,2015,3975,1610612744,400828007,3,1,19,0,Jump Shot,3PT Field Goal,28.9,Memphis Grizzlies,158,232,6,4.9,"Smith, Russ",4.5,10.4
+Stephen Curry,Golden State Warriors,11/11/2015,2015,3975,1610612744,400828007,3,6,31,0,Jump Shot,2PT Field Goal,20.5,Memphis Grizzlies,151,154,2,2.8,"Gasol, Marc",7.1,13.9
+Stephen Curry,Golden State Warriors,07/11/2015,2015,3975,1610612744,400827979,1,0,53,0,Jump Shot,3PT Field Goal,23.1,Sacramento Kings,-237,70,0,0.8,"Rondo, Rajon",3.8,14.4
+Stephen Curry,Golden State Warriors,07/11/2015,2015,3975,1610612744,400827979,1,1,48,0,Jump Shot,3PT Field Goal,28.1,Sacramento Kings,-166,204,1,1.2,"Casspi, Omri",5.4,20.7
+Stephen Curry,Golden State Warriors,07/11/2015,2015,3975,1610612744,400827979,4,5,43,1,Jump Shot,3PT Field Goal,25.8,Sacramento Kings,71,264,0,0.8,"Rondo, Rajon",2.8,20
+Stephen Curry,Golden State Warriors,07/11/2015,2015,3975,1610612744,400827979,2,1,57,0,Jump Shot,3PT Field Goal,26.8,Sacramento Kings,104,234,0,1.2,"Koufos, Kosta",12,18.6
+Stephen Curry,Golden State Warriors,07/11/2015,2015,3975,1610612744,400827979,1,5,56,0,Jump Shot,2PT Field Goal,17.5,Sacramento Kings,-171,92,0,1.1,"Rondo, Rajon",2,11.6
+Stephen Curry,Golden State Warriors,07/11/2015,2015,3975,1610612744,400827979,3,7,21,0,Jump Shot,3PT Field Goal,26.9,Sacramento Kings,123,205,6,5.4,"Rondo, Rajon",1,20.3
+Stephen Curry,Golden State Warriors,07/11/2015,2015,3975,1610612744,400827979,3,5,23,0,Jump Shot,3PT Field Goal,24.2,Sacramento Kings,227,90,1,2.1,"Anderson, James",5.4,20.1
+Stephen Curry,Golden State Warriors,07/11/2015,2015,3975,1610612744,400827979,1,8,45,0,Jump Shot,3PT Field Goal,28.3,Sacramento Kings,-158,223,0,0.7,"Rondo, Rajon",4.2,17.6
+Stephen Curry,Golden State Warriors,07/11/2015,2015,3975,1610612744,400827979,3,0,20,0,Jump Shot,3PT Field Goal,23.6,Sacramento Kings,130,213,0,0.7,"Rondo, Rajon",7.1,9.9
+Stephen Curry,Golden State Warriors,02/12/2015,2015,3975,1610612744,400828155,1,10,42,0,Jump Shot,3PT Field Goal,23.3,Charlotte Hornets,-238,11,0,0.6,"Walker, Kemba",2.6,7.5
+Stephen Curry,Golden State Warriors,17/11/2015,2015,3975,1610612744,400828051,1,11,3,0,Jump Shot,3PT Field Goal,24.2,Toronto Raptors,-232,46,1,2,"Lowry, Kyle",4.3,17.1
+Stephen Curry,Golden State Warriors,17/11/2015,2015,3975,1610612744,400828051,3,5,16,0,Jump Shot,3PT Field Goal,24.3,Toronto Raptors,-122,239,0,0.8,"Joseph, Cory",5.3,13.2
+Stephen Curry,Golden State Warriors,27/11/2015,2015,3975,1610612744,400828123,3,2,24,1,Jump Shot,3PT Field Goal,24,Phoenix Suns,-197,160,0,0.9,"Booker, Devin",6.7,22.8
+Stephen Curry,Golden State Warriors,27/11/2015,2015,3975,1610612744,400828123,1,1,52,1,Jump Shot,3PT Field Goal,27.7,Phoenix Suns,174,175,0,0.8,"Booker, Devin",11.7,23.8
+Stephen Curry,Golden State Warriors,27/11/2015,2015,3975,1610612744,400828123,3,2,29,0,Jump Shot,3PT Field Goal,23.7,Phoenix Suns,-227,-11,0,0.4,"Teletovic, Mirza",5.3,0.4
+Stephen Curry,Golden State Warriors,27/11/2015,2015,3975,1610612744,400828123,3,9,54,0,Jump Shot,3PT Field Goal,28.8,Phoenix Suns,-101,249,4,3.2,"Bledsoe, Eric",4.9,20.8
+Stephen Curry,Golden State Warriors,27/11/2015,2015,3975,1610612744,400828123,1,1,3,0,Jump Shot,3PT Field Goal,27,Phoenix Suns,171,188,4,3.1,"Warren, TJ",4.2,20.7
+Stephen Curry,Golden State Warriors,27/11/2015,2015,3975,1610612744,400828123,3,0,55,0,Jump Shot,3PT Field Goal,25.7,Phoenix Suns,-102,232,4,3.4,"Price, Ronnie",5.7,20.4
+Stephen Curry,Golden State Warriors,27/11/2015,2015,3975,1610612744,400828123,3,5,35,0,Layup Shot,2PT Field Goal,3.5,Phoenix Suns,-17,7,2,2.2,"Bledsoe, Eric",2.3,18
+Stephen Curry,Golden State Warriors,09/11/2015,2015,3975,1610612744,400827991,3,1,52,0,Layup Shot,2PT Field Goal,3.7,Detroit Pistons,1,23,0,1.2,"Morris, Marcus",0.5,7.4
+Stephen Curry,Golden State Warriors,27/10/2015,2015,3975,1610612744,400827890,1,9,34,0,Layup Shot,2PT Field Goal,1.5,New Orleans Pelicans,20,9,0,0.6,"Perkins, Kendrick",3,11.7
+Stephen Curry,Golden State Warriors,11/12/2015,2015,3975,1610612744,400828223,4,2,28,0,Layup Shot,2PT Field Goal,1.5,Boston Celtics,-5,14,0,0.2,"Turner, Evan",1.3,23
+Stephen Curry,Golden State Warriors,31/10/2015,2015,3975,1610612744,400827922,3,1,34,1,Layup Shot,2PT Field Goal,3.5,New Orleans Pelicans,27,23,2,2.4,"Babbitt, Luke",4.9,20.7
+Stephen Curry,Golden State Warriors,12/11/2015,2015,3975,1610612744,400828012,1,1,50,1,Layup Shot,2PT Field Goal,0,Minnesota Timberwolves,4,-1,0,0,,0,0
+Stephen Curry,Golden State Warriors,12/12/2015,2015,3975,1610612744,400828238,1,3,14,1,Layup Shot,2PT Field Goal,3.6,Milwaukee Bucks,-16,3,1,2.1,"Mayo, O.J.",4.6,20.9
+Stephen Curry,Golden State Warriors,12/12/2015,2015,3975,1610612744,400828238,3,7,26,1,Layup Shot,2PT Field Goal,2.7,Milwaukee Bucks,-9,3,7,5.7,"Parker, Jabari",3.3,16.4
+Stephen Curry,Golden State Warriors,05/01/2016,2015,3975,1610612744,400828411,2,3,42,0,Layup Shot,2PT Field Goal,24.8,Los Angeles Lakers,9,16,0,0.8,"Huertas, Marcelo",4,18.4
+Stephen Curry,Golden State Warriors,04/11/2015,2015,3975,1610612744,400827956,3,6,56,0,Layup Shot,2PT Field Goal,9.4,Los Angeles Clippers,-3,4,5,6,"Rivers, Austin",4.3,24
+Stephen Curry,Golden State Warriors,08/12/2015,2015,3975,1610612744,400828201,2,1,1,0,Layup Shot,2PT Field Goal,1,Indiana Pacers,-12,-6,8,7.8,"Mahinmi, Ian",1.2,16.1
+Stephen Curry,Golden State Warriors,12/12/2015,2015,3975,1610612744,400828238,2,0,1,0,Layup Shot,2PT Field Goal,3.7,Milwaukee Bucks,-13,14,0,1.1,"Middleton, Khris",1.5,0
+Stephen Curry,Golden State Warriors,08/01/2016,2015,3975,1610612744,400828435,3,7,11,1,Layup Shot,2PT Field Goal,4.6,Portland Trail Blazers,-7,7,1,1.2,"Plumlee, Mason",1.3,18
+Stephen Curry,Golden State Warriors,05/01/2016,2015,3975,1610612744,400828411,2,8,20,1,Layup Shot,2PT Field Goal,24.8,Los Angeles Lakers,5,21,0,1.9,"Nance Jr., Larry",5.4,15.9
+Stephen Curry,Golden State Warriors,25/12/2015,2015,3975,1610612744,400828325,4,3,3,0,Layup Shot,2PT Field Goal,3.7,Cleveland Cavaliers,-7,26,2,4.2,"Dellavedova, Matthew",5.4,6.2
+Stephen Curry,Golden State Warriors,30/11/2015,2015,3975,1610612744,400828146,3,3,10,0,Layup Shot,2PT Field Goal,1.3,Utah Jazz,-20,13,4,3.7,"Burke, Trey",2,20.9
+Stephen Curry,Golden State Warriors,22/11/2015,2015,3975,1610612744,400828087,3,5,26,0,Layup Shot,2PT Field Goal,3.6,Denver Nuggets,14,11,3,2.9,"Mudiay, Emmanuel",2.1,22.3
+Stephen Curry,Golden State Warriors,30/11/2015,2015,3975,1610612744,400828146,3,0,52,1,Layup Shot,2PT Field Goal,3.5,Utah Jazz,19,-6,0,0.6,"Burke, Trey",1.6,11
+Stephen Curry,Golden State Warriors,11/12/2015,2015,3975,1610612744,400828223,3,8,44,0,Layup Shot,2PT Field Goal,5.2,Boston Celtics,-14,16,0,0.6,"Bradley, Avery",3.2,15.1
+Stephen Curry,Golden State Warriors,04/01/2016,2015,3975,1610612744,400828407,4,2,34,0,Layup Shot,2PT Field Goal,2.9,Charlotte Hornets,-16,11,0,0.6,"Walker, Kemba",0.3,16.9
+Stephen Curry,Golden State Warriors,06/12/2015,2015,3975,1610612744,400828187,3,0,27,1,Layup Shot,2PT Field Goal,2.3,Brooklyn Nets,27,7,0,1,"Larkin, Shane",3.2,14
+Stephen Curry,Golden State Warriors,24/11/2015,2015,3975,1610612744,400828101,3,1,39,0,Layup Shot,2PT Field Goal,8.1,Los Angeles Lakers,9,21,2,2.4,"Bass, Brandon",4.2,19
+Stephen Curry,Golden State Warriors,16/12/2015,2015,3975,1610612744,400828268,1,8,1,0,Layup Shot,2PT Field Goal,1.4,Phoenix Suns,-4,21,7,6.6,"Leuer, Jon",2.2,16.8
+Stephen Curry,Golden State Warriors,25/12/2015,2015,3975,1610612744,400828325,1,8,17,0,Layup Shot,2PT Field Goal,3.6,Cleveland Cavaliers,4,16,6,5.5,"Mozgov, Timofey",2.2,18.4
+Stephen Curry,Golden State Warriors,07/11/2015,2015,3975,1610612744,400827979,1,3,9,1,Layup Shot,2PT Field Goal,3.7,Sacramento Kings,24,11,0,1.8,"Belinelli, Marco",2.3,23.3
+Stephen Curry,Golden State Warriors,11/12/2015,2015,3975,1610612744,400828223,1,8,23,0,Layup Shot,2PT Field Goal,4.4,Boston Celtics,20,7,4,5.6,"Bradley, Avery",0.9,18.6
+Stephen Curry,Golden State Warriors,18/12/2015,2015,3975,1610612744,400828284,3,2,50,0,Layup Shot,2PT Field Goal,3.2,Milwaukee Bucks,-12,11,2,2.1,"Parker, Jabari",1.4,10.2
+Stephen Curry,Golden State Warriors,12/11/2015,2015,3975,1610612744,400828012,3,6,0,0,Layup Shot,2PT Field Goal,0,Minnesota Timberwolves,-6,2,0,0,,0,0
+Stephen Curry,Golden State Warriors,04/01/2016,2015,3975,1610612744,400828407,4,1,55,0,Layup Shot,2PT Field Goal,3.8,Charlotte Hornets,-22,13,1,2.6,"Zeller, Cody",2.3,7.1
+Stephen Curry,Golden State Warriors,28/12/2015,2015,3975,1610612744,400828355,3,7,12,0,Layup Shot,2PT Field Goal,2.7,Sacramento Kings,-12,26,4,6.5,"Gay, Rudy",2.9,20.5
+Stephen Curry,Golden State Warriors,12/11/2015,2015,3975,1610612744,400828012,1,8,7,0,Layup Shot,2PT Field Goal,0,Minnesota Timberwolves,-25,13,0,0,,0,0
+Stephen Curry,Golden State Warriors,06/11/2015,2015,3975,1610612744,400827970,1,6,16,0,Layup Shot,2PT Field Goal,2.6,Denver Nuggets,10,2,0,1.5,"Mudiay, Emmanuel",3.8,11.9
+Stephen Curry,Golden State Warriors,11/11/2015,2015,3975,1610612744,400828007,3,11,2,0,Pullup Bank shot,2PT Field Goal,12.5,Memphis Grizzlies,-96,46,3,2.7,"Conley, Mike",2.8,16.2
+Stephen Curry,Golden State Warriors,14/11/2015,2015,3975,1610612744,400828031,3,0,25,0,Pullup Bank shot,3PT Field Goal,32,Brooklyn Nets,10,262,0,0,"Jack, Jarrett",13.7,23.5
+Stephen Curry,Golden State Warriors,17/11/2015,2015,3975,1610612744,400828051,2,1,25,1,Pullup Jump shot,3PT Field Goal,24.6,Toronto Raptors,-30,252,0,0.8,"Scola, Luis",17,21.4
+Stephen Curry,Golden State Warriors,17/11/2015,2015,3975,1610612744,400828051,1,0,19,1,Pullup Jump shot,3PT Field Goal,27.7,Toronto Raptors,109,232,1,1.3,"Johnson, James",6.2,19.4
+Stephen Curry,Golden State Warriors,04/01/2016,2015,3975,1610612744,400828407,4,5,34,1,Pullup Jump shot,3PT Field Goal,26.2,Charlotte Hornets,12,257,0,1.4,"Roberts, Brian",2.1,17.8
+Stephen Curry,Golden State Warriors,28/11/2015,2015,3975,1610612744,400828132,3,6,44,0,Pullup Jump shot,3PT Field Goal,26.3,Sacramento Kings,-66,254,12,9.3,"Gay, Rudy",6.1,14.8
+Stephen Curry,Golden State Warriors,28/11/2015,2015,3975,1610612744,400828132,1,8,15,0,Pullup Jump shot,3PT Field Goal,27.5,Sacramento Kings,51,257,7,5.2,"Gay, Rudy",4.7,13.2
+Stephen Curry,Golden State Warriors,04/01/2016,2015,3975,1610612744,400828407,2,6,55,1,Pullup Jump shot,3PT Field Goal,27.6,Charlotte Hornets,19,272,5,4.5,"Roberts, Brian",4.4,19.2
+Stephen Curry,Golden State Warriors,28/11/2015,2015,3975,1610612744,400828132,1,5,18,1,Pullup Jump shot,3PT Field Goal,24.4,Sacramento Kings,-202,149,0,0.9,"McLemore, Ben",5.8,16.7
+Stephen Curry,Golden State Warriors,05/12/2015,2015,3975,1610612744,400828177,3,11,20,0,Pullup Jump shot,3PT Field Goal,24.5,Toronto Raptors,6,242,5,4.2,"Lowry, Kyle",5.1,20.1
+Stephen Curry,Golden State Warriors,04/01/2016,2015,3975,1610612744,400828407,3,9,6,0,Pullup Jump shot,2PT Field Goal,21,Charlotte Hornets,168,85,0,0.8,"Walker, Kemba",7.6,13.7
+Stephen Curry,Golden State Warriors,04/01/2016,2015,3975,1610612744,400828407,4,3,4,0,Pullup Jump shot,3PT Field Goal,26.8,Charlotte Hornets,186,198,0,0,"Walker, Kemba",2.9,4.7
+Stephen Curry,Golden State Warriors,30/10/2015,2015,3975,1610612744,400827917,1,7,52,1,Pullup Jump shot,3PT Field Goal,28.8,Houston Rockets,-52,288,3,3.6,"Lawson, Ty",5.2,19.1
+Stephen Curry,Golden State Warriors,30/10/2015,2015,3975,1610612744,400827917,1,9,22,1,Pullup Jump shot,3PT Field Goal,25.6,Houston Rockets,209,124,5,7,"Jones, Terrence",6.1,24
+Stephen Curry,Golden State Warriors,30/10/2015,2015,3975,1610612744,400827917,2,1,56,0,Pullup Jump shot,3PT Field Goal,26.3,Houston Rockets,-115,224,0,1.4,"Harden, James",13.4,19.4
+Stephen Curry,Golden State Warriors,24/11/2015,2015,3975,1610612744,400828101,3,7,11,1,Pullup Jump shot,3PT Field Goal,23.3,Los Angeles Lakers,232,23,0,1.2,"Clarkson, Jordan",6.5,2.1
+Stephen Curry,Golden State Warriors,24/11/2015,2015,3975,1610612744,400828101,3,1,2,1,Pullup Jump shot,3PT Field Goal,27.3,Los Angeles Lakers,143,237,5,7.7,"Nance Jr., Larry",6.5,8.1
+Stephen Curry,Golden State Warriors,24/11/2015,2015,3975,1610612744,400828101,1,8,28,1,Pullup Jump shot,3PT Field Goal,23.2,Los Angeles Lakers,-233,47,0,0.9,"Randle, Julius",8,5
+Stephen Curry,Golden State Warriors,05/12/2015,2015,3975,1610612744,400828177,4,7,6,1,Pullup Jump shot,3PT Field Goal,24.7,Toronto Raptors,176,180,2,1.9,"Lowry, Kyle",1.2,16.8
+Stephen Curry,Golden State Warriors,04/11/2015,2015,3975,1610612744,400827956,2,5,57,0,Pullup Jump shot,3PT Field Goal,22.5,Los Angeles Clippers,-235,3,0,0.7,"Paul, Chris",9.6,14.9
+Stephen Curry,Golden State Warriors,23/12/2015,2015,3975,1610612744,400828321,1,7,13,0,Pullup Jump shot,3PT Field Goal,26.3,Utah Jazz,-92,242,0,0.7,"Neto, Raul",7.5,23.3
+Stephen Curry,Golden State Warriors,09/11/2015,2015,3975,1610612744,400827991,2,7,25,1,Pullup Jump shot,3PT Field Goal,25,Detroit Pistons,-214,134,0,0.8,"Morris, Marcus",4,16.1
+Stephen Curry,Golden State Warriors,23/12/2015,2015,3975,1610612744,400828321,1,10,48,1,Pullup Jump shot,3PT Field Goal,25.2,Utah Jazz,46,244,2,3.6,"Neto, Raul",3.8,13
+Stephen Curry,Golden State Warriors,23/12/2015,2015,3975,1610612744,400828321,4,5,53,1,Pullup Jump shot,3PT Field Goal,22.6,Utah Jazz,-238,43,0,0.7,"Booker, Trevor",4.6,10.2
+Stephen Curry,Golden State Warriors,09/11/2015,2015,3975,1610612744,400827991,2,4,8,0,Pullup Jump shot,3PT Field Goal,24.1,Detroit Pistons,137,208,5,7.7,"Johnson, Stanley",7.2,17.9
+Stephen Curry,Golden State Warriors,09/11/2015,2015,3975,1610612744,400827991,4,4,1,1,Pullup Jump shot,3PT Field Goal,26.1,Detroit Pistons,-6,259,13,10.4,"Caldwell-Pope, Kentavious",4.3,14
+Stephen Curry,Golden State Warriors,25/12/2015,2015,3975,1610612744,400828325,3,6,15,0,Pullup Jump shot,2PT Field Goal,19,Cleveland Cavaliers,69,183,4,3.2,"Irving, Kyrie",4.5,21.1
+Stephen Curry,Golden State Warriors,06/11/2015,2015,3975,1610612744,400827970,2,1,6,1,Pullup Jump shot,3PT Field Goal,23.8,Denver Nuggets,159,200,1,1.7,"Gallinari, Danilo",2.8,17.9
+Stephen Curry,Golden State Warriors,06/11/2015,2015,3975,1610612744,400827970,3,3,1,1,Pullup Jump shot,3PT Field Goal,23.6,Denver Nuggets,227,106,0,1.3,"Barton, Will",3.1,15.4
+Stephen Curry,Golden State Warriors,04/01/2016,2015,3975,1610612744,400828407,1,8,19,0,Pullup Jump shot,3PT Field Goal,26.5,Charlotte Hornets,-207,175,0,1.3,"Walker, Kemba",5,18.7
+Stephen Curry,Golden State Warriors,06/11/2015,2015,3975,1610612744,400827970,1,5,37,1,Pullup Jump shot,3PT Field Goal,22.5,Denver Nuggets,212,139,0,0.6,"Nelson, Jameer",3.4,11
+Stephen Curry,Golden State Warriors,06/11/2015,2015,3975,1610612744,400827970,1,0,6,1,Pullup Jump shot,3PT Field Goal,25.4,Denver Nuggets,138,228,0,0.7,"Harris, Gary",5.4,2.4
+Stephen Curry,Golden State Warriors,28/12/2015,2015,3975,1610612744,400828355,2,5,27,0,Pullup Jump shot,3PT Field Goal,23.4,Sacramento Kings,209,134,0,0.7,"Anderson, James",3.1,19.8
+Stephen Curry,Golden State Warriors,14/11/2015,2015,3975,1610612744,400828031,3,1,11,0,Pullup Jump shot,3PT Field Goal,24.9,Brooklyn Nets,120,232,0,0.9,"Hollis-Jefferson, Rondae",8.1,20.8
+Stephen Curry,Golden State Warriors,28/12/2015,2015,3975,1610612744,400828355,2,4,43,0,Pullup Jump shot,3PT Field Goal,28.1,Sacramento Kings,22,254,7,5.2,"Curry, Seth",4.8,18.5
+Stephen Curry,Golden State Warriors,14/11/2015,2015,3975,1610612744,400828031,1,0,1,0,Pullup Jump shot,2PT Field Goal,18,Brooklyn Nets,-196,8,0,2.7,"Bogdanovic, Bojan",0.2,0
+Stephen Curry,Golden State Warriors,14/11/2015,2015,3975,1610612744,400828031,4,4,7,0,Pullup Jump shot,2PT Field Goal,18.3,Brooklyn Nets,-156,85,7,4.6,"Jack, Jarrett",4.1,19
+Stephen Curry,Golden State Warriors,28/12/2015,2015,3975,1610612744,400828355,2,0,21,1,Pullup Jump shot,3PT Field Goal,28.4,Sacramento Kings,-117,257,3,2.6,"McLemore, Ben",7.1,21.7
+Stephen Curry,Golden State Warriors,14/11/2015,2015,3975,1610612744,400828031,1,3,27,1,Pullup Jump shot,3PT Field Goal,24.1,Brooklyn Nets,-179,190,0,0.7,"Jack, Jarrett",5,24
+Stephen Curry,Golden State Warriors,14/11/2015,2015,3975,1610612744,400828031,4,7,27,1,Pullup Jump shot,3PT Field Goal,25,Brooklyn Nets,-209,141,0,0.7,"Jack, Jarrett",5.2,11.7
+Stephen Curry,Golden State Warriors,20/11/2015,2015,3975,1610612744,400828074,3,9,10,0,Pullup Jump shot,3PT Field Goal,29.2,Chicago Bulls,-156,213,4,3.3,"Snell, Tony",4.1,24
+Stephen Curry,Golden State Warriors,28/12/2015,2015,3975,1610612744,400828355,2,2,13,1,Pullup Jump shot,3PT Field Goal,22.8,Sacramento Kings,-225,-1,0,1,"Curry, Seth",4.6,23.1
+Stephen Curry,Golden State Warriors,14/11/2015,2015,3975,1610612744,400828031,4,5,24,1,Pullup Jump shot,3PT Field Goal,23.8,Brooklyn Nets,-235,47,0,0.7,"Ellington, Wayne",5.2,18.3
+Stephen Curry,Golden State Warriors,14/11/2015,2015,3975,1610612744,400828031,3,9,28,1,Pullup Jump shot,2PT Field Goal,21.1,Brooklyn Nets,110,174,4,4.6,"Jack, Jarrett",5.2,18.6
+Stephen Curry,Golden State Warriors,17/11/2015,2015,3975,1610612744,400828051,1,2,8,0,Pullup Jump shot,3PT Field Goal,24.2,Toronto Raptors,-178,185,1,0.8,"Lowry, Kyle",2.5,11.1
+Stephen Curry,Golden State Warriors,06/11/2015,2015,3975,1610612744,400827970,3,4,57,0,Pullup Jump shot,3PT Field Goal,21.8,Denver Nuggets,-232,7,6,11.4,"Gallinari, Danilo",2.5,11.8
+Stephen Curry,Golden State Warriors,05/12/2015,2015,3975,1610612744,400828177,4,2,33,1,Pullup Jump shot,3PT Field Goal,25.7,Toronto Raptors,2,249,8,7.4,"Joseph, Cory",2.2,16.6
+Stephen Curry,Golden State Warriors,28/12/2015,2015,3975,1610612744,400828355,2,0,51,1,Pullup Jump shot,3PT Field Goal,28.4,Sacramento Kings,-22,277,2,4.5,"Collison, Darren",3.3,18.6
+Stephen Curry,Golden State Warriors,17/11/2015,2015,3975,1610612744,400828051,2,2,8,0,Pullup Jump shot,3PT Field Goal,24.3,Toronto Raptors,-27,252,3,4.8,"Lowry, Kyle",4.4,19.2
+Stephen Curry,Golden State Warriors,14/11/2015,2015,3975,1610612744,400828031,3,7,43,0,Pullup Jump shot,3PT Field Goal,28.3,Brooklyn Nets,-178,214,3,3.1,"Jack, Jarrett",5.3,20.5
+Stephen Curry,Golden State Warriors,11/11/2015,2015,3975,1610612744,400828007,3,4,15,0,Pullup Jump shot,2PT Field Goal,14,Memphis Grizzlies,-16,214,0,2.8,"Smith, Russ",2,4.4
+Stephen Curry,Golden State Warriors,02/12/2015,2015,3975,1610612744,400828155,1,5,21,1,Pullup Jump shot,3PT Field Goal,29.4,Charlotte Hornets,19,301,5,4.1,"Walker, Kemba",3.9,19.6
+Stephen Curry,Golden State Warriors,04/01/2016,2015,3975,1610612744,400828407,2,1,50,0,Pullup Jump shot,3PT Field Goal,28.2,Charlotte Hornets,-34,267,4,3.7,"Lin, Jeremy",4.2,18.6
+Stephen Curry,Golden State Warriors,14/11/2015,2015,3975,1610612744,400828031,2,3,9,1,Pullup Jump shot,3PT Field Goal,23.9,Brooklyn Nets,-68,242,0,0.9,"Jack, Jarrett",2.8,18.2
+Stephen Curry,Golden State Warriors,11/12/2015,2015,3975,1610612744,400828223,2,4,13,1,Pullup Jump shot,3PT Field Goal,28.9,Boston Celtics,182,228,3,4.4,"Bradley, Avery",5.2,20.1
+Stephen Curry,Golden State Warriors,14/11/2015,2015,3975,1610612744,400828031,1,7,21,0,Pullup Jump shot,3PT Field Goal,28.7,Brooklyn Nets,-63,259,4,5.6,"Young, Thaddeus",7.7,8.6
+Stephen Curry,Golden State Warriors,16/12/2015,2015,3975,1610612744,400828268,1,2,3,0,Pullup Jump shot,3PT Field Goal,24.4,Phoenix Suns,-107,224,6,5.5,"Bledsoe, Eric",5.5,18
+Stephen Curry,Golden State Warriors,02/12/2015,2015,3975,1610612744,400828155,3,0,3,1,Pullup Jump shot,3PT Field Goal,30.5,Charlotte Hornets,158,257,8,9.2,"Walker, Kemba",5.1,0
+Stephen Curry,Golden State Warriors,02/12/2015,2015,3975,1610612744,400828155,3,1,29,1,Pullup Jump shot,3PT Field Goal,29.3,Charlotte Hornets,143,262,1,3.5,"Batum, Nicolas",5.4,20.5
+Stephen Curry,Golden State Warriors,17/11/2015,2015,3975,1610612744,400828051,3,3,15,1,Pullup Jump shot,3PT Field Goal,24.7,Toronto Raptors,-147,205,10,7.8,"Patterson, Patrick",6.1,16.1
+Stephen Curry,Golden State Warriors,17/11/2015,2015,3975,1610612744,400828051,1,2,39,1,Pullup Jump shot,3PT Field Goal,25,Toronto Raptors,64,252,0,1.9,"DeRozan, DeMar",7,10.4
+Stephen Curry,Golden State Warriors,17/11/2015,2015,3975,1610612744,400828051,3,11,44,1,Pullup Jump shot,2PT Field Goal,21,Toronto Raptors,55,193,2,3.5,"Valanciunas, Jonas",6.2,11
+Stephen Curry,Golden State Warriors,05/12/2015,2015,3975,1610612744,400828177,1,10,18,1,Pullup Jump shot,3PT Field Goal,25,Toronto Raptors,153,190,2,4.4,"Lowry, Kyle",1,19.1
+Stephen Curry,Golden State Warriors,17/11/2015,2015,3975,1610612744,400828051,4,5,18,1,Pullup Jump shot,3PT Field Goal,26.3,Toronto Raptors,-4,257,11,8.7,"Joseph, Cory",6.6,15
+Stephen Curry,Golden State Warriors,12/11/2015,2015,3975,1610612744,400828012,1,3,38,1,Pullup Jump shot,2PT Field Goal,0,Minnesota Timberwolves,130,124,0,0,,0,0
+Stephen Curry,Golden State Warriors,16/12/2015,2015,3975,1610612744,400828268,2,1,41,1,Pullup Jump shot,3PT Field Goal,25.3,Phoenix Suns,153,208,7,6.3,"Leuer, Jon",6,17.1
+Stephen Curry,Golden State Warriors,16/12/2015,2015,3975,1610612744,400828268,1,6,28,1,Pullup Jump shot,2PT Field Goal,18.7,Phoenix Suns,78,154,2,1.5,"Tucker, PJ",3.3,16.3
+Stephen Curry,Golden State Warriors,27/11/2015,2015,3975,1610612744,400828123,2,0,34,1,Pullup Jump shot,3PT Field Goal,28.7,Phoenix Suns,-142,229,2,3.9,"Bledsoe, Eric",5,20.5
+Stephen Curry,Golden State Warriors,04/01/2016,2015,3975,1610612744,400828407,3,7,1,1,Pullup Jump shot,3PT Field Goal,24.9,Charlotte Hornets,158,213,1,3.2,"Walker, Kemba",3.6,11.2
+Stephen Curry,Golden State Warriors,02/12/2015,2015,3975,1610612744,400828155,1,5,44,1,Pullup Jump shot,3PT Field Goal,24,Charlotte Hornets,218,116,9,7.6,"Williams, Marvin",6.2,13.4
+Stephen Curry,Golden State Warriors,05/12/2015,2015,3975,1610612744,400828177,4,1,52,0,Pullup Jump shot,3PT Field Goal,27.3,Toronto Raptors,-45,252,8,7.4,"Joseph, Cory",1.1,16.7
+Stephen Curry,Golden State Warriors,05/12/2015,2015,3975,1610612744,400828177,1,6,5,0,Pullup Jump shot,3PT Field Goal,26.9,Toronto Raptors,99,237,4,4.8,"Lowry, Kyle",5.7,17
+Stephen Curry,Golden State Warriors,27/10/2015,2015,3975,1610612744,400827890,2,1,16,0,Pullup Jump shot,3PT Field Goal,23.4,New Orleans Pelicans,204,151,0,0.6,"Anderson, Ryan",4.7,8.1
+Stephen Curry,Golden State Warriors,22/11/2015,2015,3975,1610612744,400828087,2,4,27,1,Pullup Jump shot,2PT Field Goal,9.5,Denver Nuggets,4,56,10,7.4,"Barton, Will",3.5,16.5
+Stephen Curry,Golden State Warriors,05/12/2015,2015,3975,1610612744,400828177,1,0,35,0,Reverse Layup Shot,2PT Field Goal,1.5,Toronto Raptors,10,13,0,1.3,"Nogueira, Lucas",1,18.3
+Stephen Curry,Golden State Warriors,23/12/2015,2015,3975,1610612744,400828321,2,2,18,0,Reverse Layup Shot,2PT Field Goal,3.1,Utah Jazz,10,21,2,2.8,"Hayward, Gordon",2.9,4.2
+Stephen Curry,Golden State Warriors,19/11/2015,2015,3975,1610612744,400828064,2,8,1,0,Reverse Layup Shot,2PT Field Goal,4.2,Los Angeles Clippers,22,23,0,7.9,"Jordan, DeAndre",3.6,18.3
+Stephen Curry,Golden State Warriors,16/12/2015,2015,3975,1610612744,400828268,3,7,15,1,Reverse Layup Shot,2PT Field Goal,2.8,Phoenix Suns,0,11,0,1.1,"Teletovic, Mirza",3.8,14.8
+Stephen Curry,Golden State Warriors,12/12/2015,2015,3975,1610612744,400828238,1,6,30,1,Reverse Layup Shot,2PT Field Goal,2,Milwaukee Bucks,10,7,0,0.5,"Mayo, O.J.",2.4,11.3
+Stephen Curry,Golden State Warriors,30/11/2015,2015,3975,1610612744,400828146,3,11,12,1,Reverse Layup Shot,2PT Field Goal,1.2,Utah Jazz,25,-6,0,1.1,"Hood, Rodney",3.6,14.9
+Stephen Curry,Golden State Warriors,04/01/2016,2015,3975,1610612744,400828407,3,6,13,1,Running Finger Roll Layup Shot,2PT Field Goal,4.7,Charlotte Hornets,12,16,7,5.9,"Williams, Marvin",3.1,16.8
+Stephen Curry,Golden State Warriors,11/11/2015,2015,3975,1610612744,400828007,2,3,1,1,Running Finger Roll Layup Shot,2PT Field Goal,4.1,Memphis Grizzlies,-7,8,6,4.8,"Green, JaMychal",2.6,20
+Stephen Curry,Golden State Warriors,02/01/2016,2015,3975,1610612744,400828391,1,9,25,1,Running Finger Roll Layup Shot,2PT Field Goal,2.4,Denver Nuggets,-7,11,0,0.7,"Jokic, Nikola",4.4,19.8
+Stephen Curry,Golden State Warriors,27/11/2015,2015,3975,1610612744,400828123,2,0,54,1,Running Finger Roll Layup Shot,2PT Field Goal,6.1,Phoenix Suns,27,2,5,4,"Bledsoe, Eric",3,19.6
+Stephen Curry,Golden State Warriors,11/11/2015,2015,3975,1610612744,400828007,4,2,37,1,Running Finger Roll Layup Shot,2PT Field Goal,3.9,Memphis Grizzlies,9,2,3,3.8,"Green, JaMychal",4,21
+Stephen Curry,Golden State Warriors,31/10/2015,2015,3975,1610612744,400827922,3,5,6,1,Running Finger Roll Layup Shot,2PT Field Goal,3.7,New Orleans Pelicans,9,36,6,4.9,"Babbitt, Luke",4.7,20
+Stephen Curry,Golden State Warriors,30/10/2015,2015,3975,1610612744,400827917,2,3,49,1,Running Finger Roll Layup Shot,2PT Field Goal,4.1,Houston Rockets,14,-1,4,5,"Capela, Clint",2.6,20.5
+Stephen Curry,Golden State Warriors,04/01/2016,2015,3975,1610612744,400828407,2,7,29,1,Running Finger Roll Layup Shot,2PT Field Goal,1.1,Charlotte Hornets,12,13,0,1.5,"Hawes, Spencer",3.2,20.2
+Stephen Curry,Golden State Warriors,24/11/2015,2015,3975,1610612744,400828101,3,6,19,1,Running Finger Roll Layup Shot,2PT Field Goal,4.5,Los Angeles Lakers,1,7,5,5,"Bryant, Kobe",0,19.1
+Stephen Curry,Golden State Warriors,04/11/2015,2015,3975,1610612744,400827956,4,3,34,0,Running Jump Shot,2PT Field Goal,16.3,Los Angeles Clippers,120,111,5,6.6,"Paul, Chris",3.1,14.8
+Stephen Curry,Golden State Warriors,11/11/2015,2015,3975,1610612744,400828007,3,0,0,1,Running Jump Shot,3PT Field Goal,33.8,Memphis Grizzlies,-199,342,3,3.6,"Smith, Russ",3.6,0
+Stephen Curry,Golden State Warriors,05/12/2015,2015,3975,1610612744,400828177,1,8,26,1,Running Jump Shot,3PT Field Goal,23.8,Toronto Raptors,228,26,0,0.8,"Carroll, DeMarre",4.2,19.9
+Stephen Curry,Golden State Warriors,02/11/2015,2015,3975,1610612744,400827938,1,9,34,1,Running Jump Shot,2PT Field Goal,17,Memphis Grizzlies,-160,120,5,4,"Conley, Mike",3.9,19.6
+Stephen Curry,Golden State Warriors,06/12/2015,2015,3975,1610612744,400828187,3,1,11,0,Running Jump Shot,2PT Field Goal,8.3,Brooklyn Nets,25,110,3,2.8,"Johnson, Joe",1.9,13.6
+Stephen Curry,Golden State Warriors,07/11/2015,2015,3975,1610612744,400827979,4,5,50,0,Running Jump Shot,2PT Field Goal,10.8,Sacramento Kings,92,124,0,0.2,"Cauley-Stein, Willie",1.7,9.7
+Stephen Curry,Golden State Warriors,09/11/2015,2015,3975,1610612744,400827991,3,10,13,0,Running Jump Shot,2PT Field Goal,1.8,Detroit Pistons,-22,26,9,6.9,"Caldwell-Pope, Kentavious",1.7,16.8
+Stephen Curry,Golden State Warriors,04/11/2015,2015,3975,1610612744,400827956,4,1,8,1,Running Jump Shot,3PT Field Goal,27.7,Los Angeles Clippers,-74,257,6,7.5,"Jordan, DeAndre",5.2,15.9
+Stephen Curry,Golden State Warriors,07/11/2015,2015,3975,1610612744,400827979,3,5,47,1,Running Layup Shot,2PT Field Goal,2.2,Sacramento Kings,-2,23,5,4.9,"Rondo, Rajon",2.9,19.6
+Stephen Curry,Golden State Warriors,02/12/2015,2015,3975,1610612744,400828155,3,2,34,1,Running Layup Shot,2PT Field Goal,3.9,Charlotte Hornets,-9,16,1,1.9,"Walker, Kemba",2.7,21.4
+Stephen Curry,Golden State Warriors,11/11/2015,2015,3975,1610612744,400828007,3,9,54,1,Running Layup Shot,2PT Field Goal,23.2,Memphis Grizzlies,0,16,0,0,"Conley, Mike",4.2,21.4
+Stephen Curry,Golden State Warriors,22/11/2015,2015,3975,1610612744,400828087,1,3,58,1,Running Layup Shot,2PT Field Goal,3.9,Denver Nuggets,14,2,3,4.3,"Jokic, Nikola",4.6,21.6
+Stephen Curry,Golden State Warriors,11/12/2015,2015,3975,1610612744,400828223,1,3,56,1,Running Layup Shot,2PT Field Goal,2.7,Boston Celtics,12,3,1,2,"Johnson, Amir",0,20.1
+Stephen Curry,Golden State Warriors,07/11/2015,2015,3975,1610612744,400827979,3,3,27,1,Running Layup Shot,2PT Field Goal,4.3,Sacramento Kings,2,8,3,3.6,"McLemore, Ben",2.2,21.2
+Stephen Curry,Golden State Warriors,08/01/2016,2015,3975,1610612744,400828435,1,5,34,1,Running Layup Shot,2PT Field Goal,2.2,Portland Trail Blazers,9,7,5,4.2,"Lillard, Damian",3.1,20.4
+Stephen Curry,Golden State Warriors,30/10/2015,2015,3975,1610612744,400827917,4,7,18,1,Running Layup Shot,2PT Field Goal,4.1,Houston Rockets,10,2,0,0.6,"Brewer, Corey",11.1,19.4
+Stephen Curry,Golden State Warriors,30/11/2015,2015,3975,1610612744,400828146,4,1,29,0,Running Layup Shot,2PT Field Goal,0.8,Utah Jazz,2,7,1,1.9,"Burks, Alec",3.7,20.5
+Stephen Curry,Golden State Warriors,14/11/2015,2015,3975,1610612744,400828031,4,0,22,0,Running Layup Shot,2PT Field Goal,4,Brooklyn Nets,-2,21,5,4.5,"Jack, Jarrett",0,18
+Stephen Curry,Golden State Warriors,17/11/2015,2015,3975,1610612744,400828051,1,7,50,1,Running Layup Shot,2PT Field Goal,2.8,Toronto Raptors,9,18,6,5.3,"Carroll, DeMarre",0.2,18
+Stephen Curry,Golden State Warriors,14/11/2015,2015,3975,1610612744,400828031,1,6,11,0,Running Layup Shot,2PT Field Goal,4,Brooklyn Nets,19,11,7,5.4,"Lopez, Brook",1.1,24
+Stephen Curry,Golden State Warriors,27/10/2015,2015,3975,1610612744,400827890,1,7,11,1,Running Layup Shot,2PT Field Goal,3.9,New Orleans Pelicans,-4,8,3,3.3,"Smith, Ish",1.9,20.5
+Stephen Curry,Golden State Warriors,16/12/2015,2015,3975,1610612744,400828268,3,9,15,1,Running Layup Shot,2PT Field Goal,4.9,Phoenix Suns,9,16,1,2,"Tucker, PJ",2.7,20.9
+Stephen Curry,Golden State Warriors,25/12/2015,2015,3975,1610612744,400828325,1,0,53,0,Running Layup Shot,2PT Field Goal,3.3,Cleveland Cavaliers,2,16,0,0.8,"Dellavedova, Matthew",3.3,21
+Stephen Curry,Golden State Warriors,06/11/2015,2015,3975,1610612744,400827970,2,3,13,1,Running Layup Shot,2PT Field Goal,2,Denver Nuggets,-12,21,1,2.3,"Mudiay, Emmanuel",0.9,19.6
+Stephen Curry,Golden State Warriors,05/12/2015,2015,3975,1610612744,400828177,4,3,37,1,Running Pull-Up Jump Shot,3PT Field Goal,24.5,Toronto Raptors,4,252,6,4.4,"Scola, Luis",3.2,20.3
+Stephen Curry,Golden State Warriors,05/12/2015,2015,3975,1610612744,400828177,1,7,5,1,Running Pull-Up Jump Shot,2PT Field Goal,15.2,Toronto Raptors,69,136,6,4.3,"DeRozan, DeMar",5.6,18.8
+Stephen Curry,Golden State Warriors,02/11/2015,2015,3975,1610612744,400827938,3,6,43,1,Running Reverse Layup Shot,2PT Field Goal,2.6,Memphis Grizzlies,-6,26,3,4.4,"Lee, Courtney",2.9,19.9
+Stephen Curry,Golden State Warriors,16/12/2015,2015,3975,1610612744,400828268,2,2,12,1,Running Reverse Layup Shot,2PT Field Goal,2.3,Phoenix Suns,-16,7,6,5.4,"Bledsoe, Eric",3.4,19.2
+Stephen Curry,Golden State Warriors,28/11/2015,2015,3975,1610612744,400828132,1,10,0,1,Running Reverse Layup Shot,2PT Field Goal,1.2,Sacramento Kings,-12,16,0,1,"Koufos, Kosta",5.3,20.5
+Stephen Curry,Golden State Warriors,08/12/2015,2015,3975,1610612744,400828201,3,3,30,1,Running Reverse Layup Shot,2PT Field Goal,1.2,Indiana Pacers,-14,-5,1,1.8,"Miles, CJ",4.5,21
+Stephen Curry,Golden State Warriors,02/11/2015,2015,3975,1610612744,400827938,3,6,28,1,Running Reverse Layup Shot,2PT Field Goal,2.3,Memphis Grizzlies,9,26,4,4.6,"Conley, Mike",3.1,21.1
+Stephen Curry,Golden State Warriors,28/11/2015,2015,3975,1610612744,400828132,1,3,4,1,Step Back Jump shot,3PT Field Goal,23.4,Sacramento Kings,158,193,5,5,"Koufos, Kosta",3.2,17.2
+Stephen Curry,Golden State Warriors,09/01/2016,2015,3975,1610612744,400828443,4,0,27,1,Step Back Jump shot,2PT Field Goal,23.8,Sacramento Kings,-24,224,12,8.3,"Rondo, Rajon",4.7,7.6
+Stephen Curry,Golden State Warriors,27/11/2015,2015,3975,1610612744,400828123,1,5,48,1,Step Back Jump shot,3PT Field Goal,24.5,Phoenix Suns,-117,223,8,6.3,"Bledsoe, Eric",4.8,17.2
+Stephen Curry,Golden State Warriors,18/12/2015,2015,3975,1610612744,400828284,3,4,33,1,Step Back Jump shot,2PT Field Goal,21.7,Milwaukee Bucks,-212,8,0,1.4,"Carter-Williams, Michael",3.5,24
+Stephen Curry,Golden State Warriors,28/12/2015,2015,3975,1610612744,400828355,1,10,5,0,Step Back Jump shot,2PT Field Goal,21.7,Sacramento Kings,186,2,6,5.9,"Cousins, DeMarcus",5.4,18.4
+Stephen Curry,Golden State Warriors,04/11/2015,2015,3975,1610612744,400827956,2,2,8,1,Step Back Jump shot,3PT Field Goal,26.1,Los Angeles Clippers,43,247,0,0.9,"Griffin, Blake",5.9,15.3
+Stephen Curry,Golden State Warriors,30/11/2015,2015,3975,1610612744,400828146,3,8,2,0,Step Back Jump shot,2PT Field Goal,18.6,Utah Jazz,-192,-11,9,7.2,"Hayward, Gordon",4.9,17.5
+Stephen Curry,Golden State Warriors,04/11/2015,2015,3975,1610612744,400827956,4,5,32,1,Step Back Jump shot,3PT Field Goal,25.3,Los Angeles Clippers,-91,228,10,7.1,"Jordan, DeAndre",6.4,15.7
+Stephen Curry,Golden State Warriors,06/11/2015,2015,3975,1610612744,400827970,4,3,55,0,Step Back Jump shot,3PT Field Goal,26.6,Denver Nuggets,55,252,6,8.2,"Arthur, Darrell",4,15.7
+Stephen Curry,Golden State Warriors,09/11/2015,2015,3975,1610612744,400827991,1,1,34,0,Step Back Jump shot,3PT Field Goal,22.7,Detroit Pistons,-232,31,2,2.7,"Blake, Steve",4,8.2
+Stephen Curry,Golden State Warriors,28/12/2015,2015,3975,1610612744,400828355,2,3,16,1,Step Back Jump shot,3PT Field Goal,24.7,Sacramento Kings,-197,169,8,6.4,"Collison, Darren",4,18.3
+Stephen Curry,Golden State Warriors,30/11/2015,2015,3975,1610612744,400828146,4,0,51,1,Step Back Jump shot,3PT Field Goal,22.6,Utah Jazz,-205,165,4,4.2,"Hood, Rodney",0,13.1
+Stephen Curry,Golden State Warriors,14/11/2015,2015,3975,1610612744,400828031,3,3,13,1,Step Back Jump shot,3PT Field Goal,25.9,Brooklyn Nets,-194,170,0,1.1,"Jack, Jarrett",5.3,12.9
+Stephen Curry,Golden State Warriors,09/11/2015,2015,3975,1610612744,400827991,1,10,46,1,Step Back Jump shot,2PT Field Goal,13.4,Detroit Pistons,-19,95,4,5,"Morris, Marcus",4.4,19
+Stephen Curry,Golden State Warriors,27/10/2015,2015,3975,1610612744,400827890,1,3,57,1,Step Back Jump shot,3PT Field Goal,24.5,New Orleans Pelicans,89,239,1,1.7,"Davis, Anthony",6.1,16
+Stephen Curry,Golden State Warriors,30/11/2015,2015,3975,1610612744,400828146,4,1,46,1,Step Back Jump shot,2PT Field Goal,22.6,Utah Jazz,-125,175,4,5.9,"Favors, Derrick",4.1,6
+Stephen Curry,Golden State Warriors,18/12/2015,2015,3975,1610612744,400828284,1,4,52,1,Step Back Jump shot,3PT Field Goal,24.3,Milwaukee Bucks,-194,175,0,0.9,"Henson, John",7.2,13.3
+Stephen Curry,Golden State Warriors,09/01/2016,2015,3975,1610612744,400828443,1,8,32,1,Step Back Jump shot,3PT Field Goal,22.8,Sacramento Kings,225,16,2,3.8,"Rondo, Rajon",3.5,14
+Stephen Curry,Golden State Warriors,02/11/2015,2015,3975,1610612744,400827938,3,10,0,1,Step Back Jump shot,2PT Field Goal,17.8,Memphis Grizzlies,164,41,2,1.6,"Randolph, Zach",5.2,12.1
+Stephen Curry,Golden State Warriors,09/01/2016,2015,3975,1610612744,400828443,3,3,5,0,Step Back Jump shot,3PT Field Goal,24.7,Sacramento Kings,-19,247,10,9,"Acy, Quincy",4.7,15.6
+Stephen Curry,Golden State Warriors,30/10/2015,2015,3975,1610612744,400827917,4,4,44,0,Step Back Jump shot,3PT Field Goal,25.6,Houston Rockets,87,229,9,11,"Harrell, Montrezl",5.6,13.5
+Stephen Curry,Golden State Warriors,30/10/2015,2015,3975,1610612744,400827917,1,11,0,0,Step Back Jump shot,2PT Field Goal,19.6,Houston Rockets,-109,154,8,4.9,"Ariza, Trevor",4.5,19
+Stephen Curry,Golden State Warriors,05/01/2016,2015,3975,1610612744,400828411,2,7,9,1,Step Back Jump shot,3PT Field Goal,0,Los Angeles Lakers,-194,178,0,0,,0,0
+Stephen Curry,Golden State Warriors,02/11/2015,2015,3975,1610612744,400827938,3,9,5,1,Step Back Jump shot,3PT Field Goal,23.9,Memphis Grizzlies,-143,210,12,8.4,"Conley, Mike",3.7,15
+Stephen Curry,Golden State Warriors,08/12/2015,2015,3975,1610612744,400828201,1,9,2,0,Step Back Jump shot,2PT Field Goal,20.8,Indiana Pacers,163,110,10,6.7,"Miles, CJ",5.3,16.9
+Stephen Curry,Golden State Warriors,31/10/2015,2015,3975,1610612744,400827922,4,6,9,1,Step Back Jump shot,2PT Field Goal,17.3,New Orleans Pelicans,-166,50,4,3.9,"Gordon, Eric",2.6,13.6
+Stephen Curry,Golden State Warriors,16/12/2015,2015,3975,1610612744,400828268,2,3,7,1,Step Back Jump shot,3PT Field Goal,25.2,Phoenix Suns,-92,237,12,8.9,"Leuer, Jon",4.9,12.8
+Stephen Curry,Golden State Warriors,09/11/2015,2015,3975,1610612744,400827991,1,3,44,0,Step Back Jump shot,2PT Field Goal,17.4,Detroit Pistons,156,31,1,1.9,"Ilyasova, Ersan",4.8,10.3
+Stephen Curry,Golden State Warriors,08/12/2015,2015,3975,1610612744,400828201,4,3,49,1,Step Back Jump shot,2PT Field Goal,19.9,Indiana Pacers,76,169,19,14,"Hill, Solomon",4.4,10.2
+Stephen Curry,Golden State Warriors,02/01/2016,2015,3975,1610612744,400828391,1,5,21,0,Step Back Jump shot,3PT Field Goal,22.5,Denver Nuggets,-237,46,3,5.9,"Gallinari, Danilo",5.8,9.7
+Stephen Curry,Golden State Warriors,14/11/2015,2015,3975,1610612744,400828031,5,0,38,0,Step Back Jump shot,2PT Field Goal,17.2,Brooklyn Nets,-125,129,11,10,"Jack, Jarrett",5.2,4.1
+Stephen Curry,Golden State Warriors,28/11/2015,2015,3975,1610612744,400828132,1,11,14,0,Step Back Jump shot,3PT Field Goal,25.2,Sacramento Kings,9,247,0,0.6,"Rondo, Rajon",4.1,6.1
+Stephen Curry,Golden State Warriors,20/11/2015,2015,3975,1610612744,400828074,4,5,33,0,Step Back Jump shot,3PT Field Goal,24.6,Chicago Bulls,140,208,7,6.6,"Gasol, Pau",3.7,17.5
+Stephen Curry,Golden State Warriors,17/11/2015,2015,3975,1610612744,400828051,1,1,12,0,Step Back Jump shot,2PT Field Goal,21.2,Toronto Raptors,163,131,10,7.6,"DeRozan, DeMar",6,15.6
+Stephen Curry,Golden State Warriors,06/11/2015,2015,3975,1610612744,400827970,3,5,58,1,Step Back Jump shot,3PT Field Goal,22.5,Denver Nuggets,227,11,0,0.6,"Mudiay, Emmanuel",4.4,22
+Stephen Curry,Golden State Warriors,22/11/2015,2015,3975,1610612744,400828087,3,10,47,1,Step Back Jump shot,2PT Field Goal,21.7,Denver Nuggets,-217,70,4,5.3,"Gallinari, Danilo",2.8,4.4
+Stephen Curry,Golden State Warriors,24/11/2015,2015,3975,1610612744,400828101,1,10,20,0,Step Back Jump shot,3PT Field Goal,24.7,Los Angeles Lakers,150,205,12,8.3,"Randle, Julius",4,15.9
+Stephen Curry,Golden State Warriors,08/12/2015,2015,3975,1610612744,400828201,3,0,2,1,Step Back Jump shot,2PT Field Goal,22.2,Indiana Pacers,159,106,5,4.9,"Hill, Jordan",4.4,3.9
+Stephen Curry,Golden State Warriors,11/11/2015,2015,3975,1610612744,400828007,1,9,31,0,Step Back Jump shot,3PT Field Goal,25.1,Memphis Grizzlies,-166,198,1,1.7,"Conley, Mike",5.9,5
+Stephen Curry,Golden State Warriors,08/01/2016,2015,3975,1610612744,400828435,1,9,49,1,Turnaround Bank shot,2PT Field Goal,14,Portland Trail Blazers,-88,105,3,2.3,"Lillard, Damian",2.8,8.9
+Stephen Curry,Golden State Warriors,16/12/2015,2015,3975,1610612744,400828268,2,4,41,1,Turnaround Fadeaway Bank Jump Shot,2PT Field Goal,14,Phoenix Suns,42,85,2,1.7,"Bledsoe, Eric",4.1,9.3
+Stephen Curry,Golden State Warriors,18/12/2015,2015,3975,1610612744,400828284,4,2,52,1,Turnaround Fadeaway shot,2PT Field Goal,6.1,Milwaukee Bucks,6,41,0,1.6,"Carter-Williams, Michael",1.4,12.2
+Stephen Curry,Golden State Warriors,02/01/2016,2015,3975,1610612744,400828391,2,3,7,0,Turnaround Jump Shot,3PT Field Goal,24.2,Denver Nuggets,-204,154,0,0.6,"Nelson, Jameer",3.8,11.5
+Stephen Curry,Golden State Warriors,17/11/2015,2015,3975,1610612744,400828051,2,3,17,1,Turnaround Jump Shot,2PT Field Goal,7.3,Toronto Raptors,-4,56,1,1.2,"Lowry, Kyle",5.2,22
+Stephen Curry,Golden State Warriors,24/11/2015,2015,3975,1610612744,400828101,3,9,1,1,Turnaround Jump Shot,2PT Field Goal,8.9,Los Angeles Lakers,64,26,2,3.9,"Hibbert, Roy",6.1,11.3
+Stephen Curry,Golden State Warriors,17/11/2015,2015,3975,1610612744,400828051,4,1,28,1,Turnaround Jump Shot,2PT Field Goal,16.1,Toronto Raptors,130,106,13,12,"Joseph, Cory",6,10.2
+Stephen Curry,Golden State Warriors,24/11/2015,2015,3975,1610612744,400828101,2,2,19,0,Turnaround Jump Shot,2PT Field Goal,14.3,Los Angeles Lakers,-79,106,9,8.4,"Clarkson, Jordan",6.6,15.4
+Stephen Curry,Golden State Warriors,06/11/2015,2015,3975,1610612744,400827970,2,0,25,1,Turnaround Jump Shot,3PT Field Goal,25.9,Denver Nuggets,-212,134,0,0.6,"Barton, Will",4.9,13.3
+Stephen Curry,Golden State Warriors,14/11/2015,2015,3975,1610612744,400828031,5,4,0,0,Turnaround Jump Shot,3PT Field Goal,24.6,Brooklyn Nets,-165,185,0,0.7,"Jack, Jarrett",4.1,6.7
