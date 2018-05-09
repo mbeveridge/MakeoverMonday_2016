@@ -1,5 +1,5 @@
 # #MakeoverMonday (2016)
-######"A weekly social data project"
+###### "A weekly social data project"
 
 "_Join us in the weekly #MakeoverMonday series. Each week we post a link to a chart, and its data, and then you rework the chart. Maybe you retell the story more effectively, or find a new story in the data. We’re curious to see the different approaches you all take. Whether it’s a simple bar chart or an elaborate infographic, we encourage everyone of all skills to partake. Together we can have broader conversations about and with data_" -- [makeovermonday.co.uk](http://www.makeovermonday.co.uk/). ([makeovermonday.co.uk/data](http://www.makeovermonday.co.uk/data/))
 
