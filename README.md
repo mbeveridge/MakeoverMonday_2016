@@ -3,11 +3,11 @@
 
 "_Join us in the weekly #MakeoverMonday series. Each week we post a link to a chart, and its data, and then you rework the chart. Maybe you retell the story more effectively, or find a new story in the data. We’re curious to see the different approaches you all take. Whether it’s a simple bar chart or an elaborate infographic, we encourage everyone of all skills to partake. Together we can have broader conversations about and with data_" -- [makeovermonday.co.uk](http://www.makeovermonday.co.uk/). ([makeovermonday.co.uk/data](http://www.makeovermonday.co.uk/data/))
 
-This project began shortly after the [IGDV115](https://github.com/mbeveridge/IGDV1115) MOOC concluded, and sounded attractive as a place for the same sort of redesigns/ discussions. Below are the ones I published, (the first 14).
+This project began shortly after the [IGDV115](https://github.com/mbeveridge/IGDV1115) MOOC concluded, and sounded attractive as a place for the same sort of redesigns/ discussions. **Below are the ones I published, (the first 14)**.
 
-My recollection, from reading 'guidance' posts at the start (and before), was that the main purpose would be to improve (usually Tableau) participants' choice of chart (line v's column, axis variables, etc) to support the story in an article containing it. The weekly rework would be of published charts that weren't the best choice. To be accessible, it was to take (only) ~hour and not be focused on 'polish'.
+My recollection, from reading 'guidance' posts at the start (and before), was that the main purpose would be to improve (usually Tableau) participants' choice of chart (line v's column, axis variables, etc) **to support the story in an article containing it**. The weekly rework would be of published charts that weren't the best choice for their articles. To be accessible, it was to take (only) ~hour and not be focused on 'polish'.
 
-That's what I tried to do, so think I kept the existing titles, used a standard screen size, etc ...(though a few times I took a bit longer, in order to get a 'complete' proof of concept, or just to play). It felt like that wasn't what others were doing, and (I think) I'd thought discussions would be on TableauPublic (or at least it'd find any #MakeoverMonday submissions there). I moved on to other things (but did keep an eye on it).
+**That's what I tried to do**, so think I kept the existing titles, plain background, used a standard screen size, etc ...(though a few times I took a bit longer, in order to get a 'complete' proof of concept, or just to play). It felt like that 'guidance' wasn't what others were interested in, and (I think) I'd thought discussions would be on TableauPublic (or at least it'd find any #MakeoverMonday submissions there). I moved on to other things (but did keep an eye on it).
 
 ---
 
